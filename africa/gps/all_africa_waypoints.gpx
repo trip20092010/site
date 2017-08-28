@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+ version="1.0"
+creator="GPSBabel - http://www.gpsbabel.org"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<time>2009-11-05T09:10:35Z</time>
+<bounds minlat="-34.357307000" minlon="13.952285000" maxlat="0.636835000" maxlon="39.426234000"/>
+<wpt lat="-20.151590000" lon="25.761912000">
+  <ele>903.998535</ele>
+  <name>073</name>
+  <cmt>15-SEP-09 11:58:15</cmt>
+  <desc>15-SEP-09 11:58:15</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.618463000" lon="26.006007000">
+  <ele>964.080566</ele>
+  <name>070</name>
+  <cmt>15-SEP-09 9:30:01</cmt>
+  <desc>15-SEP-09 9:30:01</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.701540000" lon="26.049816000">
+  <ele>938.605713</ele>
+  <name>071</name>
+  <cmt>15-SEP-09 9:51:47</cmt>
+  <desc>15-SEP-09 9:51:47</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-20.210580000" lon="26.180880000">
+  <ele>905.680908</ele>
+  <name>072</name>
+  <cmt>15-SEP-09 10:51:09</cmt>
+  <desc>15-SEP-09 10:51:09</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.936164000" lon="25.648120000">
+  <ele>1046.032471</ele>
+  <name>069</name>
+  <cmt>15-SEP-09 8:01:13</cmt>
+  <desc>15-SEP-09 8:01:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.951998000" lon="23.477374000">
+  <ele>929.232910</ele>
+  <name>Sedia</name>
+  <cmt>15-SEP-09 17:48:26</cmt>
+  <desc>15-SEP-09 17:48:26</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.976772000" lon="23.430907000">
+  <ele>930.194336</ele>
+  <name>074</name>
+  <cmt>16-SEP-09 8:10:40</cmt>
+  <desc>16-SEP-09 8:10:40</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.975832000" lon="23.428285000">
+  <ele>941.249268</ele>
+  <name>Maun Airport</name>
+  <cmt>19-SEP-09 8:33:17</cmt>
+  <desc>19-SEP-09 8:33:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.988744000" lon="23.424784000">
+  <ele>932.116943</ele>
+  <name>Shoprite1</name>
+  <cmt>15-SEP-09 15:45:52</cmt>
+  <desc>15-SEP-09 15:45:52</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.812707000" lon="23.394769000">
+  <ele>944.854248</ele>
+  <name>Camp</name>
+  <cmt>16-SEP-09 12:06:18</cmt>
+  <desc>16-SEP-09 12:06:18</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.851539000" lon="23.388832000">
+  <ele>935.721924</ele>
+  <name>Rest</name>
+  <cmt>16-SEP-09 10:40:09</cmt>
+  <desc>16-SEP-09 10:40:09</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.810895000" lon="23.391439000">
+  <ele>935.241211</ele>
+  <name>Hippo Pool</name>
+  <cmt>17-SEP-09 17:48:47</cmt>
+  <desc>17-SEP-09 17:48:47</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.879106000" lon="23.375741000">
+  <ele>939.086426</ele>
+  <name>Ok Delta</name>
+  <cmt>16-SEP-09 9:10:47</cmt>
+  <desc>16-SEP-09 9:10:47</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.800454000" lon="23.383201000">
+  <ele>935.241211</ele>
+  <name>Island</name>
+  <cmt>17-SEP-09 6:56:21</cmt>
+  <desc>17-SEP-09 6:56:21</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.843327000" lon="25.143660000">
+  <ele>988.113281</ele>
+  <name>Chobe</name>
+  <cmt>14-SEP-09 18:31:31</cmt>
+  <desc>14-SEP-09 18:31:31</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.796569000" lon="25.152755000">
+  <ele>941.009033</ele>
+  <name>Spar</name>
+  <cmt>14-SEP-09 12:05:55</cmt>
+  <desc>14-SEP-09 12:05:55</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.785630000" lon="25.182691000">
+  <ele>922.984619</ele>
+  <name>Thebe</name>
+  <cmt>14-SEP-09 13:28:26</cmt>
+  <desc>14-SEP-09 13:28:26</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.789802000" lon="25.267178000">
+  <ele>929.713623</ele>
+  <name>066</name>
+  <cmt>14-SEP-09 10:53:17</cmt>
+  <desc>14-SEP-09 10:53:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.928318000" lon="25.857160000">
+  <ele>881.407715</ele>
+  <name>Bridge</name>
+  <cmt>13-SEP-09 10:00:50</cmt>
+  <desc>13-SEP-09 10:00:50</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.928632000" lon="25.862838000">
+  <ele>890.780518</ele>
+  <name>In</name>
+  <cmt>13-SEP-09 8:33:23</cmt>
+  <desc>13-SEP-09 8:33:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.926636000" lon="25.859242000">
+  <ele>876.360840</ele>
+  <name>Vic Falls</name>
+  <cmt>10-SEP-09 11:23:33</cmt>
+  <desc>10-SEP-09 11:23:33</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.924238000" lon="25.853845000">
+  <ele>889.338623</ele>
+  <name>Livingstone Is</name>
+  <cmt>10-SEP-09 13:33:21</cmt>
+  <desc>10-SEP-09 13:33:21</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.924861000" lon="25.859037000">
+  <ele>885.012939</ele>
+  <name>Angel&apos;s Armchr</name>
+  <cmt>10-SEP-09 16:26:51</cmt>
+  <desc>10-SEP-09 16:26:51</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.926644000" lon="25.864354000">
+  <ele>884.532227</ele>
+  <name>063</name>
+  <cmt>10-SEP-09 10:29:40</cmt>
+  <desc>10-SEP-09 10:29:40</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.921159000" lon="25.866940000">
+  <ele>897.509766</ele>
+  <name>Royal</name>
+  <cmt>13-SEP-09 8:13:51</cmt>
+  <desc>13-SEP-09 8:13:51</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.867738000" lon="25.834965000">
+  <ele>898.470947</ele>
+  <name>064</name>
+  <cmt>11-SEP-09 9:19:18</cmt>
+  <desc>11-SEP-09 9:19:18</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.870841000" lon="25.855756000">
+  <ele>894.145264</ele>
+  <name>Superspar</name>
+  <cmt>10-SEP-09 9:18:00</cmt>
+  <desc>10-SEP-09 9:18:00</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.846499000" lon="25.857063000">
+  <ele>936.683105</ele>
+  <name>065</name>
+  <cmt>11-SEP-09 11:54:07</cmt>
+  <desc>11-SEP-09 11:54:07</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.838212000" lon="25.860828000">
+  <ele>950.382080</ele>
+  <name>Grotto</name>
+  <cmt>09-SEP-09 16:42:23</cmt>
+  <desc>09-SEP-09 16:42:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.370621000" lon="22.154317000">
+  <ele>962.638672</ele>
+  <name>078</name>
+  <cmt>19-SEP-09 12:01:25</cmt>
+  <desc>19-SEP-09 12:01:25</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.260928000" lon="21.761910000">
+  <ele>1004.215332</ele>
+  <name>Border1</name>
+  <cmt>19-SEP-09 14:42:15</cmt>
+  <desc>19-SEP-09 14:42:15</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.265987000" lon="27.452806000">
+  <ele>494.720459</ele>
+  <name>Houseboat</name>
+  <cmt>06-SEP-09 16:31:27</cmt>
+  <desc>06-SEP-09 16:31:27</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.353654000" lon="27.595051000">
+  <name>Chete</name>
+  <cmt>Chete</cmt>
+  <desc>Chete</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-16.854838000" lon="26.913017000">
+  <ele>1332.983643</ele>
+  <name>062</name>
+  <cmt>09-SEP-09 12:59:14</cmt>
+  <desc>09-SEP-09 12:59:14</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.323601000" lon="27.605166000">
+  <ele>480.541138</ele>
+  <name>Fish Camp 22</name>
+  <cmt>08-SEP-09 16:10:44</cmt>
+  <desc>08-SEP-09 16:10:44</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.117231000" lon="21.670678000">
+  <ele>995.082764</ele>
+  <name>Ngepi</name>
+  <cmt>19-SEP-09 16:02:51</cmt>
+  <desc>19-SEP-09 16:02:51</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-16.808554000" lon="26.986487000">
+  <ele>1297.895752</ele>
+  <name>061</name>
+  <cmt>09-SEP-09 12:10:25</cmt>
+  <desc>09-SEP-09 12:10:25</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-16.038156000" lon="27.579679000">
+  <ele>1044.109863</ele>
+  <name>060</name>
+  <cmt>06-SEP-09 12:47:12</cmt>
+  <desc>06-SEP-09 12:47:12</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-15.858009000" lon="27.763480000">
+  <ele>1056.847168</ele>
+  <name>059</name>
+  <cmt>06-SEP-09 11:54:01</cmt>
+  <desc>06-SEP-09 11:54:01</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.919617000" lon="20.249128000">
+  <ele>1082.802490</ele>
+  <name>079</name>
+  <cmt>20-SEP-09 10:14:17</cmt>
+  <desc>20-SEP-09 10:14:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-17.912473000" lon="19.771287000">
+  <ele>1077.755615</ele>
+  <name>Ok</name>
+  <cmt>20-SEP-09 11:00:14</cmt>
+  <desc>20-SEP-09 11:00:14</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.220320000" lon="19.460744000">
+  <ele>1167.397705</ele>
+  <name>Lunch</name>
+  <cmt>20-SEP-09 13:12:01</cmt>
+  <desc>20-SEP-09 13:12:01</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-15.398210000" lon="28.307621000">
+  <ele>1251.031982</ele>
+  <name>058</name>
+  <cmt>05-SEP-09 14:37:13</cmt>
+  <desc>05-SEP-09 14:37:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.525434000" lon="18.140544000">
+  <ele>1417.338623</ele>
+  <name>Die Kraal</name>
+  <cmt>20-SEP-09 16:35:04</cmt>
+  <desc>20-SEP-09 16:35:04</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.593098000" lon="17.934699000">
+  <ele>1491.840088</ele>
+  <name>Hoba</name>
+  <cmt>21-SEP-09 8:11:17</cmt>
+  <desc>21-SEP-09 8:11:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.243965000" lon="17.716245000">
+  <ele>1306.066895</ele>
+  <name>Nammic</name>
+  <cmt>21-SEP-09 9:38:03</cmt>
+  <desc>21-SEP-09 9:38:03</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.251057000" lon="17.711298000">
+  <ele>1322.649414</ele>
+  <name>Lisboa</name>
+  <cmt>21-SEP-09 10:15:05</cmt>
+  <desc>21-SEP-09 10:15:05</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.768650000" lon="17.261146000">
+  <ele>1135.193848</ele>
+  <name>080</name>
+  <cmt>21-SEP-09 12:20:19</cmt>
+  <desc>21-SEP-09 12:20:19</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.803359000" lon="17.043075000">
+  <ele>1111.401611</ele>
+  <name>Etosha Gate</name>
+  <cmt>21-SEP-09 12:41:10</cmt>
+  <desc>21-SEP-09 12:41:10</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.827307000" lon="16.950784000">
+  <ele>1091.213867</ele>
+  <name>Wh1</name>
+  <cmt>21-SEP-09 13:08:19</cmt>
+  <desc>21-SEP-09 13:08:19</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.809441000" lon="16.940802000">
+  <ele>1097.943115</ele>
+  <name>Camp1</name>
+  <cmt>21-SEP-09 13:18:02</cmt>
+  <desc>21-SEP-09 13:18:02</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.715408000" lon="16.903691000">
+  <name>Wh2</name>
+  <cmt>21-SEP-09 17:35:17</cmt>
+  <desc>21-SEP-09 17:35:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-14.558015000" lon="30.820202000">
+  <ele>717.984863</ele>
+  <name>Nyimba</name>
+  <cmt>05-SEP-09 9:10:13</cmt>
+  <desc>05-SEP-09 9:10:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-18.896454000" lon="16.827035000">
+  <ele>1100.105957</ele>
+  <name>Wh3</name>
+  <cmt>22-SEP-09 10:45:01</cmt>
+  <desc>22-SEP-09 10:45:01</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.035571000" lon="16.471183000">
+  <ele>1109.959473</ele>
+  <name>Halali</name>
+  <cmt>22-SEP-09 12:17:57</cmt>
+  <desc>22-SEP-09 12:17:57</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.036112000" lon="16.341053000">
+  <ele>1107.315674</ele>
+  <name>081</name>
+  <cmt>22-SEP-09 15:38:16</cmt>
+  <desc>22-SEP-09 15:38:16</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-20.109549000" lon="16.154494000">
+  <ele>1258.001465</ele>
+  <name>083</name>
+  <cmt>23-SEP-09 11:18:22</cmt>
+  <desc>23-SEP-09 11:18:22</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.162983000" lon="15.995411000">
+  <ele>1092.896240</ele>
+  <name>Wh4</name>
+  <cmt>22-SEP-09 17:09:41</cmt>
+  <desc>22-SEP-09 17:09:41</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.331231000" lon="15.940228000">
+  <ele>1132.309814</ele>
+  <name>082</name>
+  <cmt>23-SEP-09 9:49:50</cmt>
+  <desc>23-SEP-09 9:49:50</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.178624000" lon="15.919182000">
+  <ele>1113.083740</ele>
+  <name>Okaukuejo</name>
+  <cmt>22-SEP-09 18:51:39</cmt>
+  <desc>22-SEP-09 18:51:39</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-23.894660000" lon="16.005439000">
+  <ele>1066.460205</ele>
+  <name>Solitaire</name>
+  <cmt>29-SEP-09 12:10:53</cmt>
+  <desc>29-SEP-09 12:10:53</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-23.500109000" lon="15.772092000">
+  <ele>824.450195</ele>
+  <name>Capricorn</name>
+  <cmt>29-SEP-09 11:23:45</cmt>
+  <desc>29-SEP-09 11:23:45</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.606203000" lon="15.069653000">
+  <ele>1303.183105</ele>
+  <name>Cheetas</name>
+  <cmt>23-SEP-09 16:11:17</cmt>
+  <desc>23-SEP-09 16:11:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.591674000" lon="15.067570000">
+  <ele>1307.028320</ele>
+  <name>Cheetah Park C</name>
+  <cmt>23-SEP-09 14:40:18</cmt>
+  <desc>23-SEP-09 14:40:18</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.669125000" lon="15.021968000">
+  <ele>1224.836182</ele>
+  <name>Himba</name>
+  <cmt>24-SEP-09 8:39:14</cmt>
+  <desc>24-SEP-09 8:39:14</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-23.297618000" lon="15.455200000">
+  <ele>835.264893</ele>
+  <name>092</name>
+  <cmt>29-SEP-09 10:08:53</cmt>
+  <desc>29-SEP-09 10:08:53</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.090728000" lon="31.758388000">
+  <ele>518.032227</ele>
+  <name>Sunset</name>
+  <cmt>02-SEP-09 17:27:06</cmt>
+  <desc>02-SEP-09 17:27:06</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.101190000" lon="31.784539000">
+  <ele>527.645386</ele>
+  <name>Bushbuck</name>
+  <cmt>03-SEP-09 9:56:24</cmt>
+  <desc>03-SEP-09 9:56:24</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.100699000" lon="31.794210000">
+  <ele>529.327637</ele>
+  <name>Croc Camp</name>
+  <cmt>02-SEP-09 11:43:50</cmt>
+  <desc>02-SEP-09 11:43:50</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.082042000" lon="31.794062000">
+  <ele>520.435425</ele>
+  <name>057</name>
+  <cmt>03-SEP-09 8:22:07</cmt>
+  <desc>03-SEP-09 8:22:07</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.053367000" lon="31.781619000">
+  <ele>527.405029</ele>
+  <name>Lions</name>
+  <cmt>03-SEP-09 7:37:53</cmt>
+  <desc>03-SEP-09 7:37:53</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-25.890415000" lon="16.823059000">
+  <ele>1399.554443</ele>
+  <name>096</name>
+  <cmt>30-SEP-09 12:04:15</cmt>
+  <desc>30-SEP-09 12:04:15</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-19.622801000" lon="14.844922000">
+  <ele>1221.711914</ele>
+  <name>086</name>
+  <cmt>24-SEP-09 11:22:20</cmt>
+  <desc>24-SEP-09 11:22:20</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-21.218693000" lon="14.867537000">
+  <ele>797.293213</ele>
+  <name>Brandberg Camp</name>
+  <cmt>24-SEP-09 18:22:11</cmt>
+  <desc>24-SEP-09 18:22:11</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-24.486559000" lon="15.799172000">
+  <ele>789.122070</ele>
+  <name>Sesriem</name>
+  <cmt>29-SEP-09 13:59:53</cmt>
+  <desc>29-SEP-09 13:59:53</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.302217000" lon="32.220671000">
+  <ele>707.170166</ele>
+  <name>Village</name>
+  <cmt>02-SEP-09 9:39:36</cmt>
+  <desc>02-SEP-09 9:39:36</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.646994000" lon="32.647554000">
+  <ele>1123.177490</ele>
+  <name>Shoprite</name>
+  <cmt>04-SEP-09 12:34:32</cmt>
+  <desc>04-SEP-09 12:34:32</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.639831000" lon="32.645547000">
+  <ele>1142.403809</ele>
+  <name>Bank</name>
+  <cmt>01-SEP-09 14:15:40</cmt>
+  <desc>01-SEP-09 14:15:40</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.582570000" lon="32.609848000">
+  <ele>1045.791992</ele>
+  <name>Mama-Rula&apos;s</name>
+  <cmt>01-SEP-09 15:06:42</cmt>
+  <desc>01-SEP-09 15:06:42</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-21.093537000" lon="14.676101000">
+  <ele>561.531494</ele>
+  <name>White Lady Gat</name>
+  <cmt>24-SEP-09 15:11:19</cmt>
+  <desc>24-SEP-09 15:11:19</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.752747000" lon="32.796929000">
+  <ele>1293.329590</ele>
+  <name>056</name>
+  <cmt>01-SEP-09 12:32:52</cmt>
+  <desc>01-SEP-09 12:32:52</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-26.583337000" lon="17.193093000">
+  <ele>986.911621</ele>
+  <name>097</name>
+  <cmt>30-SEP-09 13:37:28</cmt>
+  <desc>30-SEP-09 13:37:28</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-21.110555000" lon="14.662736000">
+  <ele>633.870361</ele>
+  <name>White Lady</name>
+  <cmt>24-SEP-09 16:31:51</cmt>
+  <desc>24-SEP-09 16:31:51</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-24.723455000" lon="15.471020000">
+  <ele>605.511475</ele>
+  <name>095</name>
+  <cmt>29-SEP-09 17:58:13</cmt>
+  <desc>29-SEP-09 17:58:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-24.729499000" lon="15.471856000">
+  <ele>717.504150</ele>
+  <name>Top</name>
+  <cmt>29-SEP-09 18:32:05</cmt>
+  <desc>29-SEP-09 18:32:05</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-22.661163000" lon="14.551533000">
+  <ele>37.857300</ele>
+  <name>091</name>
+  <cmt>28-SEP-09 17:54:02</cmt>
+  <desc>28-SEP-09 17:54:02</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-22.719111000" lon="14.563668000">
+  <ele>40.020264</ele>
+  <name>089</name>
+  <cmt>26-SEP-09 9:51:29</cmt>
+  <desc>26-SEP-09 9:51:29</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-22.720934000" lon="14.559771000">
+  <ele>91.690674</ele>
+  <name>Sand</name>
+  <cmt>26-SEP-09 10:27:19</cmt>
+  <desc>26-SEP-09 10:27:19</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-22.662793000" lon="14.543732000">
+  <ele>24.879639</ele>
+  <name>090</name>
+  <cmt>28-SEP-09 17:00:07</cmt>
+  <desc>28-SEP-09 17:00:07</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-22.679198000" lon="14.528108000">
+  <ele>21.274780</ele>
+  <name>Swakop Lodge</name>
+  <cmt>25-SEP-09 12:31:52</cmt>
+  <desc>25-SEP-09 12:31:52</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-27.619001000" lon="17.715123000">
+  <ele>686.982422</ele>
+  <name>Hobas</name>
+  <cmt>30-SEP-09 16:51:13</cmt>
+  <desc>30-SEP-09 16:51:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-24.729896000" lon="15.322651000">
+  <ele>578.114258</ele>
+  <name>093</name>
+  <cmt>29-SEP-09 14:56:01</cmt>
+  <desc>29-SEP-09 14:56:01</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-24.747673000" lon="15.292902000">
+  <ele>567.780029</ele>
+  <name>094</name>
+  <cmt>29-SEP-09 15:23:25</cmt>
+  <desc>29-SEP-09 15:23:25</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-27.577902000" lon="17.605996000">
+  <ele>854.491211</ele>
+  <name>099</name>
+  <cmt>30-SEP-09 18:36:19</cmt>
+  <desc>30-SEP-09 18:36:19</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-24.757794000" lon="15.292295000">
+  <ele>569.943115</ele>
+  <name>Dead Vlei</name>
+  <cmt>29-SEP-09 16:32:34</cmt>
+  <desc>29-SEP-09 16:32:34</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-27.589220000" lon="17.614314000">
+  <ele>871.554199</ele>
+  <name>Fish River Can</name>
+  <cmt>30-SEP-09 18:06:40</cmt>
+  <desc>30-SEP-09 18:06:40</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.999084000" lon="33.759804000">
+  <ele>1065.258545</ele>
+  <name>Mabuya</name>
+  <cmt>31-AUG-09 16:31:47</cmt>
+  <desc>31-AUG-09 16:31:47</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-13.986169000" lon="33.768793000">
+  <ele>1041.225586</ele>
+  <name>Nico</name>
+  <cmt>31-AUG-09 13:45:11</cmt>
+  <desc>31-AUG-09 13:45:11</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-21.759733000" lon="13.968069000">
+  <ele>17.429565</ele>
+  <name>Cape Cross Gat</name>
+  <cmt>25-SEP-09 9:45:15</cmt>
+  <desc>25-SEP-09 9:45:15</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-21.771482000" lon="13.952285000">
+  <ele>15.747192</ele>
+  <name>Cape Cross</name>
+  <cmt>25-SEP-09 9:56:01</cmt>
+  <desc>25-SEP-09 9:56:01</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-27.920732000" lon="17.488919000">
+  <ele>213.536987</ele>
+  <name>Hot Springs</name>
+  <cmt>01-OCT-09 8:09:35</cmt>
+  <desc>01-OCT-09 8:09:35</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-28.690361000" lon="17.583217000">
+  <ele>163.308472</ele>
+  <name>Fiddlers</name>
+  <cmt>01-OCT-09 12:18:40</cmt>
+  <desc>01-OCT-09 12:18:40</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-28.720326000" lon="17.617998000">
+  <ele>168.355225</ele>
+  <name>100</name>
+  <cmt>01-OCT-09 10:42:54</cmt>
+  <desc>01-OCT-09 10:42:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-28.756713000" lon="17.622211000">
+  <ele>177.007202</ele>
+  <name>Noordoewer</name>
+  <cmt>01-OCT-09 11:30:19</cmt>
+  <desc>01-OCT-09 11:30:19</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-29.664164000" lon="17.887936000">
+  <ele>907.122803</ele>
+  <name>101</name>
+  <cmt>02-OCT-09 9:06:44</cmt>
+  <desc>02-OCT-09 9:06:44</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-11.951579000" lon="34.121724000">
+  <ele>474.532837</ele>
+  <name>Kande Beach</name>
+  <cmt>28-AUG-09 15:52:43</cmt>
+  <desc>28-AUG-09 15:52:43</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-11.934116000" lon="34.110111000">
+  <ele>514.667603</ele>
+  <name>School</name>
+  <cmt>29-AUG-09 15:30:04</cmt>
+  <desc>29-AUG-09 15:30:04</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-11.714767000" lon="34.256907000">
+  <ele>557.926514</ele>
+  <name>055</name>
+  <cmt>28-AUG-09 15:10:11</cmt>
+  <desc>28-AUG-09 15:10:11</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-11.460278000" lon="34.015582000">
+  <ele>1275.785645</ele>
+  <name>054</name>
+  <cmt>28-AUG-09 10:53:27</cmt>
+  <desc>28-AUG-09 10:53:27</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-11.462145000" lon="34.021920000">
+  <ele>1271.940430</ele>
+  <name>Peoples</name>
+  <cmt>28-AUG-09 11:40:49</cmt>
+  <desc>28-AUG-09 11:40:49</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-30.424799000" lon="17.936203000">
+  <ele>613.682617</ele>
+  <name>102</name>
+  <cmt>02-OCT-09 11:55:07</cmt>
+  <desc>02-OCT-09 11:55:07</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-11.610338000" lon="34.268383000">
+  <ele>605.271240</ele>
+  <name>Curio</name>
+  <cmt>28-AUG-09 13:30:56</cmt>
+  <desc>28-AUG-09 13:30:56</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-31.607975000" lon="18.731673000">
+  <ele>102.745850</ele>
+  <name>103</name>
+  <cmt>02-OCT-09 14:42:23</cmt>
+  <desc>02-OCT-09 14:42:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-10.585031000" lon="34.175295000">
+  <ele>468.044067</ele>
+  <name>Chitimba</name>
+  <cmt>27-AUG-09 16:13:22</cmt>
+  <desc>27-AUG-09 16:13:22</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-9.586894000" lon="33.776132000">
+  <ele>499.767334</ele>
+  <name>Kasumulu</name>
+  <cmt>27-AUG-09 14:23:24</cmt>
+  <desc>27-AUG-09 14:23:24</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-32.427816000" lon="18.956309000">
+  <ele>153.454956</ele>
+  <name>104</name>
+  <cmt>02-OCT-09 16:33:46</cmt>
+  <desc>02-OCT-09 16:33:46</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-9.258662000" lon="33.642820000">
+  <ele>1507.221191</ele>
+  <name>053</name>
+  <cmt>27-AUG-09 12:20:08</cmt>
+  <desc>27-AUG-09 12:20:08</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.828741000" lon="18.765174000">
+  <ele>125.817383</ele>
+  <name>Engen</name>
+  <cmt>04-OCT-09 9:31:11</cmt>
+  <desc>04-OCT-09 9:31:11</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.932945000" lon="18.865067000">
+  <ele>130.383545</ele>
+  <name>106</name>
+  <cmt>03-OCT-09 13:52:57</cmt>
+  <desc>03-OCT-09 13:52:57</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.935948000" lon="18.865801000">
+  <ele>135.430420</ele>
+  <name>Bot Gard</name>
+  <cmt>03-OCT-09 14:49:17</cmt>
+  <desc>03-OCT-09 14:49:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.937112000" lon="18.862847000">
+  <ele>108.033081</ele>
+  <name>Dorp</name>
+  <cmt>03-OCT-09 16:09:35</cmt>
+  <desc>03-OCT-09 16:09:35</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.937080000" lon="18.856814000">
+  <ele>105.149048</ele>
+  <name>105</name>
+  <cmt>03-OCT-09 10:53:49</cmt>
+  <desc>03-OCT-09 10:53:49</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.938925000" lon="18.854753000">
+  <ele>96.497314</ele>
+  <name>Stumble Inn</name>
+  <cmt>03-OCT-09 9:05:49</cmt>
+  <desc>03-OCT-09 9:05:49</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.946256000" lon="18.534478000">
+  <ele>22.716675</ele>
+  <name>114</name>
+  <cmt>07-OCT-09 10:59:54</cmt>
+  <desc>07-OCT-09 10:59:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.968762000" lon="18.595142000">
+  <ele>34.973389</ele>
+  <name>Cape Town Airp</name>
+  <cmt>09-OCT-09 11:52:32</cmt>
+  <desc>09-OCT-09 11:52:32</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.905986000" lon="18.421577000">
+  <ele>8.537354</ele>
+  <name>107</name>
+  <cmt>04-OCT-09 18:19:23</cmt>
+  <desc>04-OCT-09 18:19:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.946750000" lon="18.525389000">
+  <ele>21.034424</ele>
+  <name>113</name>
+  <cmt>07-OCT-09 10:09:40</cmt>
+  <desc>07-OCT-09 10:09:40</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.925055000" lon="18.420098000">
+  <ele>24.639282</ele>
+  <name>J.C. Smuts</name>
+  <cmt>05-OCT-09 15:50:32</cmt>
+  <desc>05-OCT-09 15:50:32</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.927704000" lon="18.423955000">
+  <ele>-2.036987</ele>
+  <name>District 6 Mus</name>
+  <cmt>07-OCT-09 9:06:23</cmt>
+  <desc>07-OCT-09 9:06:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.925211000" lon="18.416112000">
+  <ele>25.600586</ele>
+  <name>Nandos</name>
+  <cmt>04-OCT-09 17:20:38</cmt>
+  <desc>04-OCT-09 17:20:38</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.015249000" lon="18.651552000">
+  <ele>33.291138</ele>
+  <name>Philani</name>
+  <cmt>07-OCT-09 11:45:40</cmt>
+  <desc>07-OCT-09 11:45:40</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.927218000" lon="18.410524000">
+  <ele>42.423584</ele>
+  <name>Backpack</name>
+  <cmt>05-OCT-09 11:50:24</cmt>
+  <desc>05-OCT-09 11:50:24</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.933075000" lon="18.412295000">
+  <ele>45.067261</ele>
+  <name>Ashanti</name>
+  <cmt>04-OCT-09 10:09:58</cmt>
+  <desc>04-OCT-09 10:09:58</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.947951000" lon="18.402772000">
+  <ele>348.841553</ele>
+  <name>Cc</name>
+  <cmt>08-OCT-09 10:49:26</cmt>
+  <desc>08-OCT-09 10:49:26</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.955433000" lon="18.415824000">
+  <ele>376.959839</ele>
+  <name>115</name>
+  <cmt>08-OCT-09 11:13:58</cmt>
+  <desc>08-OCT-09 11:13:58</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.966806000" lon="18.425561000">
+  <ele>1090.733154</ele>
+  <name>Maclear Baken</name>
+  <cmt>08-OCT-09 13:13:00</cmt>
+  <desc>08-OCT-09 13:13:00</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.961987000" lon="18.407651000">
+  <ele>1060.451904</ele>
+  <name>Platteklip</name>
+  <cmt>08-OCT-09 12:28:54</cmt>
+  <desc>08-OCT-09 12:28:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.982397000" lon="18.423870000">
+  <ele>315.916504</ele>
+  <name>Smuts Pad</name>
+  <cmt>08-OCT-09 14:57:01</cmt>
+  <desc>08-OCT-09 14:57:01</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-33.987074000" lon="18.432010000">
+  <ele>144.322632</ele>
+  <name>Bot</name>
+  <cmt>08-OCT-09 15:20:57</cmt>
+  <desc>08-OCT-09 15:20:57</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.071684000" lon="18.424648000">
+  <ele>53.959351</ele>
+  <name>Steenberg</name>
+  <cmt>06-OCT-09 16:17:22</cmt>
+  <desc>06-OCT-09 16:17:22</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.129405000" lon="18.449264000">
+  <ele>20.313354</ele>
+  <name>Kalky</name>
+  <cmt>06-OCT-09 9:58:26</cmt>
+  <desc>06-OCT-09 9:58:26</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.171236000" lon="18.426311000">
+  <ele>17.910156</ele>
+  <name>Topstones</name>
+  <cmt>06-OCT-09 10:33:55</cmt>
+  <desc>06-OCT-09 10:33:55</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.195811000" lon="18.449424000">
+  <ele>9.979248</ele>
+  <name>Boulders</name>
+  <cmt>06-OCT-09 11:23:15</cmt>
+  <desc>06-OCT-09 11:23:15</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.198026000" lon="18.453441000">
+  <ele>7.816406</ele>
+  <name>109</name>
+  <cmt>06-OCT-09 11:56:30</cmt>
+  <desc>06-OCT-09 11:56:30</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.240902000" lon="18.474736000">
+  <ele>31.849121</ele>
+  <name>110</name>
+  <cmt>06-OCT-09 12:16:50</cmt>
+  <desc>06-OCT-09 12:16:50</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.350397000" lon="18.484025000">
+  <ele>125.817383</ele>
+  <name>111</name>
+  <cmt>06-OCT-09 12:51:30</cmt>
+  <desc>06-OCT-09 12:51:30</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.353901000" lon="18.490318000">
+  <ele>242.616577</ele>
+  <name>Lighthouse</name>
+  <cmt>06-OCT-09 13:19:09</cmt>
+  <desc>06-OCT-09 13:19:09</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.355759000" lon="18.494985000">
+  <ele>163.308472</ele>
+  <name>112</name>
+  <cmt>06-OCT-09 13:39:37</cmt>
+  <desc>06-OCT-09 13:39:37</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-34.357307000" lon="18.475982000">
+  <ele>83.279297</ele>
+  <name>Good Hope</name>
+  <cmt>06-OCT-09 15:00:19</cmt>
+  <desc>06-OCT-09 15:00:19</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-8.146873000" lon="35.412514000">
+  <ele>1756.681641</ele>
+  <name>Kisolanza</name>
+  <cmt>26-AUG-09 18:48:54</cmt>
+  <desc>26-AUG-09 18:48:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-7.400693000" lon="36.988797000">
+  <ele>521.637085</ele>
+  <name>Nyarutu</name>
+  <cmt>26-AUG-09 13:24:58</cmt>
+  <desc>26-AUG-09 13:24:58</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-7.348757000" lon="37.134246000">
+  <ele>556.724854</ele>
+  <name>051</name>
+  <cmt>26-AUG-09 13:06:18</cmt>
+  <desc>26-AUG-09 13:06:18</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-7.146117000" lon="37.232107000">
+  <ele>555.282959</ele>
+  <name>Mikumi</name>
+  <cmt>26-AUG-09 12:35:41</cmt>
+  <desc>26-AUG-09 12:35:41</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.639944000" lon="38.062533000">
+  <ele>339.468628</ele>
+  <name>049</name>
+  <cmt>26-AUG-09 9:35:13</cmt>
+  <desc>26-AUG-09 9:35:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.639944000" lon="38.062533000">
+  <ele>339.468628</ele>
+  <name>050</name>
+  <cmt>26-AUG-09 9:35:13</cmt>
+  <desc>26-AUG-09 9:35:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.930806000" lon="30.061000000">
+  <ele>1408.927246</ele>
+  <name>Museum Gen</name>
+  <cmt>05-AUG-09 8:47:21</cmt>
+  <desc>05-AUG-09 8:47:21</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.501907000" lon="29.637723000">
+  <ele>1845.843262</ele>
+  <name>022</name>
+  <cmt>02-AUG-09 17:32:29</cmt>
+  <desc>02-AUG-09 17:32:29</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.430672000" lon="29.536733000">
+  <ele>2502.658936</ele>
+  <name>023</name>
+  <cmt>03-AUG-09 8:03:46</cmt>
+  <desc>03-AUG-09 8:03:46</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.429535000" lon="29.536659000">
+  <ele>2510.589600</ele>
+  <name>Village1</name>
+  <cmt>03-AUG-09 11:34:48</cmt>
+  <desc>03-AUG-09 11:34:48</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.432377000" lon="29.594687000">
+  <ele>2297.899658</ele>
+  <name>Volc Hq</name>
+  <cmt>03-AUG-09 6:43:00</cmt>
+  <desc>03-AUG-09 6:43:00</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.416401000" lon="29.531371000">
+  <ele>2567.547363</ele>
+  <name>024</name>
+  <cmt>03-AUG-09 9:01:31</cmt>
+  <desc>03-AUG-09 9:01:31</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.434842000" lon="29.618885000">
+  <ele>2207.055664</ele>
+  <name>025</name>
+  <cmt>04-AUG-09 16:52:23</cmt>
+  <desc>04-AUG-09 16:52:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.774389000" lon="39.220317000">
+  <ele>42.423584</ele>
+  <name>Mlimani City</name>
+  <cmt>20-AUG-09 10:34:02</cmt>
+  <desc>20-AUG-09 10:34:02</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.819132000" lon="39.274955000">
+  <ele>1.567871</ele>
+  <name>Kkoo</name>
+  <cmt>20-AUG-09 12:03:46</cmt>
+  <desc>20-AUG-09 12:03:46</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.821611000" lon="39.283879000">
+  <ele>7.816406</ele>
+  <name>Clock</name>
+  <cmt>20-AUG-09 13:05:24</cmt>
+  <desc>20-AUG-09 13:05:24</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.820065000" lon="39.287414000">
+  <ele>2.288818</ele>
+  <name>Port1</name>
+  <cmt>21-AUG-09 8:57:51</cmt>
+  <desc>21-AUG-09 8:57:51</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.814801000" lon="39.289256000">
+  <ele>14.064941</ele>
+  <name>044</name>
+  <cmt>20-AUG-09 15:56:18</cmt>
+  <desc>20-AUG-09 15:56:18</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.810206000" lon="39.286557000">
+  <name>042</name>
+  <cmt>20-AUG-09 12:28:37</cmt>
+  <desc>20-AUG-09 12:28:37</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.816509000" lon="39.296025000">
+  <ele>14.545532</ele>
+  <name>State House</name>
+  <cmt>20-AUG-09 15:35:21</cmt>
+  <desc>20-AUG-09 15:35:21</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.661429000" lon="39.215239000">
+  <ele>1.567871</ele>
+  <name>Kundichi Ruins</name>
+  <cmt>20-AUG-09 17:54:18</cmt>
+  <desc>20-AUG-09 17:54:18</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.651778000" lon="39.209839000">
+  <ele>9.739014</ele>
+  <name>Kundichi House</name>
+  <cmt>20-AUG-09 8:01:44</cmt>
+  <desc>20-AUG-09 8:01:44</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.425889000" lon="30.012918000">
+  <ele>1815.081299</ele>
+  <name>Gatuna</name>
+  <cmt>05-AUG-09 12:27:06</cmt>
+  <desc>05-AUG-09 12:27:06</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.340733000" lon="29.740171000">
+  <ele>1966.727783</ele>
+  <name>021</name>
+  <cmt>02-AUG-09 16:51:25</cmt>
+  <desc>02-AUG-09 16:51:25</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.281925000" lon="29.690353000">
+  <ele>1937.888428</ele>
+  <name>Golden Monkey</name>
+  <cmt>02-AUG-09 16:16:55</cmt>
+  <desc>02-AUG-09 16:16:55</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.252201000" lon="29.987107000">
+  <ele>1813.158691</ele>
+  <name>Kabale</name>
+  <cmt>02-AUG-09 13:00:53</cmt>
+  <desc>02-AUG-09 13:00:53</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.143672000" lon="30.135006000">
+  <ele>1672.326416</ele>
+  <name>Bus Broke</name>
+  <cmt>02-AUG-09 9:39:11</cmt>
+  <desc>02-AUG-09 9:39:11</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.161331000" lon="39.187403000">
+  <ele>-2.758057</ele>
+  <name>Livingstone</name>
+  <cmt>21-AUG-09 22:32:45</cmt>
+  <desc>21-AUG-09 22:32:45</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.162971000" lon="39.192849000">
+  <ele>8.777588</ele>
+  <name>Slaves</name>
+  <cmt>21-AUG-09 17:19:39</cmt>
+  <desc>21-AUG-09 17:19:39</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.158871000" lon="39.193652000">
+  <ele>18.871460</ele>
+  <name>Safari Lodge</name>
+  <cmt>21-AUG-09 13:34:20</cmt>
+  <desc>21-AUG-09 13:34:20</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.156969000" lon="39.191646000">
+  <ele>-1.556396</ele>
+  <name>Port2</name>
+  <cmt>21-AUG-09 12:49:30</cmt>
+  <desc>21-AUG-09 12:49:30</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.157750000" lon="39.194617000">
+  <ele>21.034424</ele>
+  <name>Cafe</name>
+  <cmt>21-AUG-09 13:44:50</cmt>
+  <desc>21-AUG-09 13:44:50</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.271244000" lon="39.418396000">
+  <ele>-1.075684</ele>
+  <name>047</name>
+  <cmt>24-AUG-09 10:47:39</cmt>
+  <desc>24-AUG-09 10:47:39</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.276413000" lon="39.426234000">
+  <ele>22.476318</ele>
+  <name>048</name>
+  <cmt>24-AUG-09 13:13:13</cmt>
+  <desc>24-AUG-09 13:13:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-6.079907000" lon="39.252683000">
+  <ele>53.718994</ele>
+  <name>Spice Farm</name>
+  <cmt>21-AUG-09 14:56:32</cmt>
+  <desc>21-AUG-09 14:56:32</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.298844000" lon="35.592342000">
+  <ele>1754.759033</ele>
+  <name>Ng Mgate</name>
+  <cmt>17-AUG-09 16:15:59</cmt>
+  <desc>17-AUG-09 16:15:59</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.338739000" lon="35.668995000">
+  <ele>1525.967041</ele>
+  <name>037</name>
+  <cmt>17-AUG-09 15:57:12</cmt>
+  <desc>17-AUG-09 15:57:12</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.228223000" lon="35.490135000">
+  <ele>2319.769287</ele>
+  <name>Simba Camp</name>
+  <cmt>17-AUG-09 17:01:19</cmt>
+  <desc>17-AUG-09 17:01:19</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.264450000" lon="35.573932000">
+  <ele>2208.017090</ele>
+  <name>Ng View</name>
+  <cmt>17-AUG-09 16:37:08</cmt>
+  <desc>17-AUG-09 16:37:08</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.228973000" lon="35.524893000">
+  <ele>1747.548828</ele>
+  <name>Ng Rest</name>
+  <cmt>18-AUG-09 8:26:23</cmt>
+  <desc>18-AUG-09 8:26:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.386891000" lon="35.820951000">
+  <ele>1199.601563</ele>
+  <name>036</name>
+  <cmt>17-AUG-09 15:23:56</cmt>
+  <desc>17-AUG-09 15:23:56</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.154298000" lon="35.477703000">
+  <ele>2173.650146</ele>
+  <name>Ng Gate</name>
+  <cmt>18-AUG-09 7:11:17</cmt>
+  <desc>18-AUG-09 7:11:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-5.751160000" lon="39.289807000">
+  <ele>14.785889</ele>
+  <name>Sunset Bungalo</name>
+  <cmt>22-AUG-09 13:32:46</cmt>
+  <desc>22-AUG-09 13:32:46</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-5.756684000" lon="39.301103000">
+  <ele>24.879639</ele>
+  <name>046</name>
+  <cmt>24-AUG-09 9:41:37</cmt>
+  <desc>24-AUG-09 9:41:37</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.409693000" lon="36.484021000">
+  <ele>1313.036377</ele>
+  <name>Snake Park</name>
+  <cmt>15-AUG-09 18:08:17</cmt>
+  <desc>15-AUG-09 18:08:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.375589000" lon="36.679351000">
+  <ele>1388.018555</ele>
+  <name>034</name>
+  <cmt>15-AUG-09 17:17:44</cmt>
+  <desc>15-AUG-09 17:17:44</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.374543000" lon="36.682882000">
+  <ele>1410.128906</ele>
+  <name>Backpackers</name>
+  <cmt>13-JUL-09 17:18:13</cmt>
+  <desc>13-JUL-09 17:18:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.615769000" lon="30.651414000">
+  <ele>1421.904785</ele>
+  <name>Mbarara Uni In</name>
+  <cmt>01-AUG-09 19:26:59</cmt>
+  <desc>01-AUG-09 19:26:59</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.375829000" lon="36.692448000">
+  <ele>1388.979980</ele>
+  <name>Market</name>
+  <cmt>14-JUL-09 11:56:21</cmt>
+  <desc>14-JUL-09 11:56:21</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.384910000" lon="36.719958000">
+  <ele>1332.503174</ele>
+  <name>Masai Camp</name>
+  <cmt>18-AUG-09 16:59:55</cmt>
+  <desc>18-AUG-09 16:59:55</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.380559000" lon="36.792654000">
+  <ele>1295.011719</ele>
+  <name>035</name>
+  <cmt>16-AUG-09 11:53:10</cmt>
+  <desc>16-AUG-09 11:53:10</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.372760000" lon="36.786360000">
+  <ele>1314.958984</ele>
+  <name>Tengeru</name>
+  <cmt>16-AUG-09 10:50:02</cmt>
+  <desc>16-AUG-09 10:50:02</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.173653000" lon="37.239396000">
+  <ele>1806.669678</ele>
+  <name>Machame gate</name>
+  <cmt>15-JUL-09 11:02:39</cmt>
+  <desc>15-JUL-09 11:02:39</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.157245000" lon="37.240398000">
+  <ele>2019.600098</ele>
+  <name>P1</name>
+  <cmt>15-JUL-09 12:44:23</cmt>
+  <desc>15-JUL-09 12:44:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.219604000" lon="37.341364000">
+  <ele>1679.295898</ele>
+  <name>Mweka Gate</name>
+  <cmt>21-JUL-09 11:26:11</cmt>
+  <desc>21-JUL-09 11:26:11</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.364102000" lon="31.540810000">
+  <ele>1209.695557</ele>
+  <name>026</name>
+  <cmt>06-AUG-09 9:37:59</cmt>
+  <desc>06-AUG-09 9:37:59</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.137717000" lon="37.246298000">
+  <ele>2284.200928</ele>
+  <name>P2</name>
+  <cmt>15-JUL-09 13:42:10</cmt>
+  <desc>15-JUL-09 13:42:10</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.126587000" lon="37.249012000">
+  <ele>2436.568604</ele>
+  <name>P3</name>
+  <cmt>15-JUL-09 14:21:43</cmt>
+  <desc>15-JUL-09 14:21:43</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.108321000" lon="37.259090000">
+  <ele>2725.683105</ele>
+  <name>P4</name>
+  <cmt>15-JUL-09 15:41:17</cmt>
+  <desc>15-JUL-09 15:41:17</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.095270000" lon="37.266206000">
+  <ele>3031.379883</ele>
+  <name>Machame Hut</name>
+  <cmt>15-JUL-09 16:41:31</cmt>
+  <desc>15-JUL-09 16:41:31</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.156165000" lon="37.367186000">
+  <ele>3108.284668</ele>
+  <name>Mweka Camp</name>
+  <cmt>20-JUL-09 15:00:53</cmt>
+  <desc>20-JUL-09 15:00:53</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.090605000" lon="37.272782000">
+  <ele>3320.974609</ele>
+  <name>P5</name>
+  <cmt>16-JUL-09 9:53:13</cmt>
+  <desc>16-JUL-09 9:53:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.086228000" lon="37.276373000">
+  <ele>3495.693359</ele>
+  <name>P6</name>
+  <cmt>16-JUL-09 10:33:41</cmt>
+  <desc>16-JUL-09 10:33:41</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.079631000" lon="37.282497000">
+  <ele>3732.656250</ele>
+  <name>P7</name>
+  <cmt>16-JUL-09 11:27:49</cmt>
+  <desc>16-JUL-09 11:27:49</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.065790000" lon="37.275082000">
+  <ele>3823.980957</ele>
+  <name>Shira Camp</name>
+  <cmt>16-JUL-09 13:49:42</cmt>
+  <desc>16-JUL-09 13:49:42</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.131954000" lon="37.372409000">
+  <ele>3831.911621</ele>
+  <name>High Camp</name>
+  <cmt>20-JUL-09 13:38:08</cmt>
+  <desc>20-JUL-09 13:38:08</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.096111000" lon="37.328967000">
+  <ele>4030.422363</ele>
+  <name>Barranco camp</name>
+  <cmt>17-JUL-09 15:19:43</cmt>
+  <desc>17-JUL-09 15:19:43</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.112307000" lon="37.354021000">
+  <ele>4043.880859</ele>
+  <name>Karanga Hut</name>
+  <cmt>18-JUL-09 12:31:54</cmt>
+  <desc>18-JUL-09 12:31:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.068805000" lon="37.291219000">
+  <ele>4096.993164</ele>
+  <name>P8</name>
+  <cmt>17-JUL-09 9:57:52</cmt>
+  <desc>17-JUL-09 9:57:52</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.098828000" lon="37.336922000">
+  <ele>4228.692871</ele>
+  <name>P11</name>
+  <cmt>18-JUL-09 10:50:21</cmt>
+  <desc>18-JUL-09 10:50:21</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.107803000" lon="37.361072000">
+  <ele>4277.959961</ele>
+  <name>P12</name>
+  <cmt>18-JUL-09 15:35:10</cmt>
+  <desc>18-JUL-09 15:35:10</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.105013000" lon="37.368666000">
+  <ele>4438.258789</ele>
+  <name>P13</name>
+  <cmt>19-JUL-09 10:37:45</cmt>
+  <desc>19-JUL-09 10:37:45</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.061474000" lon="37.312995000">
+  <ele>4457.244629</ele>
+  <name>P9</name>
+  <cmt>17-JUL-09 11:35:29</cmt>
+  <desc>17-JUL-09 11:35:29</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.063312000" lon="37.316625000">
+  <ele>4503.627930</ele>
+  <name>P10</name>
+  <cmt>17-JUL-09 11:51:39</cmt>
+  <desc>17-JUL-09 11:51:39</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.067755000" lon="37.327403000">
+  <ele>4651.669434</ele>
+  <name>Lava Tower</name>
+  <cmt>17-JUL-09 13:22:33</cmt>
+  <desc>17-JUL-09 13:22:33</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.099632000" lon="37.378099000">
+  <ele>4664.647461</ele>
+  <name>Barafu Hut</name>
+  <cmt>19-JUL-09 11:36:54</cmt>
+  <desc>19-JUL-09 11:36:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.076435000" lon="37.354041000">
+  <ele>5900.893555</ele>
+  <name>116</name>
+  <cmt>116</cmt>
+  <desc>116</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.076435000" lon="37.354041000">
+  <ele>5900.893555</ele>
+  <name>Uhuru</name>
+  <cmt>20-JUL-09 5:28:46</cmt>
+  <desc>20-JUL-09 5:28:46</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.086894000" lon="37.370401000">
+  <ele>5180.630859</ele>
+  <name>P14</name>
+  <cmt>20-JUL-09 1:45:38</cmt>
+  <desc>20-JUL-09 1:45:38</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.083982000" lon="37.367858000">
+  <ele>5363.039551</ele>
+  <name>P15</name>
+  <cmt>20-JUL-09 2:32:34</cmt>
+  <desc>20-JUL-09 2:32:34</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.079679000" lon="37.364260000">
+  <ele>5616.104980</ele>
+  <name>P16</name>
+  <cmt>20-JUL-09 3:56:05</cmt>
+  <desc>20-JUL-09 3:56:05</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-3.078222000" lon="37.362569000">
+  <ele>5755.975586</ele>
+  <name>Stella</name>
+  <cmt>20-JUL-09 4:31:54</cmt>
+  <desc>20-JUL-09 4:31:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.548171000" lon="35.022146000">
+  <ele>1478.862549</ele>
+  <name>Mara River</name>
+  <cmt>13-AUG-09 8:59:27</cmt>
+  <desc>13-AUG-09 8:59:27</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.561915000" lon="35.063580000">
+  <ele>1535.339600</ele>
+  <name>Duma</name>
+  <cmt>13-AUG-09 8:45:21</cmt>
+  <desc>13-AUG-09 8:45:21</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-2.548902000" lon="36.785968000">
+  <ele>1341.635498</ele>
+  <name>Border</name>
+  <cmt>13-JUL-09 12:51:16</cmt>
+  <desc>13-JUL-09 12:51:16</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-2.538431000" lon="36.806066000">
+  <ele>1316.160645</ele>
+  <name>Break</name>
+  <cmt>13-JUL-09 11:38:07</cmt>
+  <desc>13-JUL-09 11:38:07</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.577240000" lon="35.206376000">
+  <ele>1619.213867</ele>
+  <name>Zebra</name>
+  <cmt>13-AUG-09 7:16:10</cmt>
+  <desc>13-AUG-09 7:16:10</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.522654000" lon="35.335445000">
+  <ele>1726.159912</ele>
+  <name>Masai Mara Gat</name>
+  <cmt>13-AUG-09 6:32:56</cmt>
+  <desc>13-AUG-09 6:32:56</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.527936000" lon="35.349101000">
+  <ele>1746.106934</ele>
+  <name>Talek</name>
+  <cmt>12-AUG-09 15:32:46</cmt>
+  <desc>12-AUG-09 15:32:46</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.496766000" lon="35.357381000">
+  <ele>1707.173828</ele>
+  <name>Masai Village</name>
+  <cmt>12-AUG-09 13:03:42</cmt>
+  <desc>12-AUG-09 13:03:42</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.000000000" lon="32.039990000">
+  <ele>1175.809326</ele>
+  <name>Equator</name>
+  <cmt>06-AUG-09 11:02:24</cmt>
+  <desc>06-AUG-09 11:02:24</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.050232000" lon="32.464880000">
+  <ele>1186.383789</ele>
+  <name>Entebbe Bb</name>
+  <cmt>06-AUG-09 16:17:23</cmt>
+  <desc>06-AUG-09 16:17:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.054729000" lon="32.479566000">
+  <ele>1140.481201</ele>
+  <name>Uwec</name>
+  <cmt>07-AUG-09 9:27:34</cmt>
+  <desc>07-AUG-09 9:27:34</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.065257000" lon="32.473271000">
+  <ele>1168.839600</ele>
+  <name>027</name>
+  <cmt>07-AUG-09 10:40:45</cmt>
+  <desc>07-AUG-09 10:40:45</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.071510000" lon="32.483554000">
+  <ele>1138.077637</ele>
+  <name>Beach</name>
+  <cmt>07-AUG-09 13:39:04</cmt>
+  <desc>07-AUG-09 13:39:04</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.169469000" lon="35.743866000">
+  <ele>1875.162842</ele>
+  <name>031</name>
+  <cmt>13-AUG-09 14:17:04</cmt>
+  <desc>13-AUG-09 14:17:04</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.319939000" lon="32.590857000">
+  <ele>1163.312256</ele>
+  <name>Smarket</name>
+  <cmt>01-AUG-09 10:21:54</cmt>
+  <desc>01-AUG-09 10:21:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.093365000" lon="35.869797000">
+  <ele>1824.934570</ele>
+  <name>Gas</name>
+  <cmt>12-AUG-09 9:51:25</cmt>
+  <desc>12-AUG-09 9:51:25</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.396891000" lon="36.753390000">
+  <ele>1757.642822</ele>
+  <name>033</name>
+  <cmt>15-AUG-09 8:47:07</cmt>
+  <desc>15-AUG-09 8:47:07</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.375562000" lon="36.746334000">
+  <ele>1793.691895</ele>
+  <name>Giraffe Cent</name>
+  <cmt>14-AUG-09 9:23:10</cmt>
+  <desc>14-AUG-09 9:23:10</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.377688000" lon="36.773024000">
+  <ele>1756.441162</ele>
+  <name>Sheldrick</name>
+  <cmt>14-AUG-09 10:54:23</cmt>
+  <desc>14-AUG-09 10:54:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.324105000" lon="36.708640000">
+  <ele>1862.906250</ele>
+  <name>Nakumatt1</name>
+  <cmt>14-AUG-09 12:52:47</cmt>
+  <desc>14-AUG-09 12:52:47</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.339180000" lon="36.764396000">
+  <ele>1800.661377</ele>
+  <name>Indaba</name>
+  <cmt>13-AUG-09 18:10:40</cmt>
+  <desc>13-AUG-09 18:10:40</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.415754000" lon="33.203672000">
+  <ele>1170.041260</ele>
+  <name>Hotel Triangle</name>
+  <cmt>31-JUL-09 14:12:18</cmt>
+  <desc>31-JUL-09 14:12:18</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.425770000" lon="33.202654000">
+  <ele>1180.615967</ele>
+  <name>Temple Indian</name>
+  <cmt>31-JUL-09 16:12:10</cmt>
+  <desc>31-JUL-09 16:12:10</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.429310000" lon="33.195766000">
+  <ele>1149.854004</ele>
+  <name>Nile Reflectio</name>
+  <cmt>31-JUL-09 14:55:24</cmt>
+  <desc>31-JUL-09 14:55:24</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.245356000" lon="36.665139000">
+  <ele>2032.096924</ele>
+  <name>Kikuyu</name>
+  <cmt>13-AUG-09 17:34:07</cmt>
+  <desc>13-AUG-09 17:34:07</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.425867000" lon="33.207981000">
+  <ele>1169.801025</ele>
+  <name>Source Cafe</name>
+  <cmt>31-JUL-09 11:12:21</cmt>
+  <desc>31-JUL-09 11:12:21</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.301006000" lon="36.824693000">
+  <ele>1667.760254</ele>
+  <name>Nakumatt</name>
+  <cmt>24-JUL-09 9:11:58</cmt>
+  <desc>24-JUL-09 9:11:58</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.288281000" lon="36.807808000">
+  <name>Heron Hotel</name>
+  <cmt>22-JUL-09 14:34:32</cmt>
+  <desc>22-JUL-09 14:34:32</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.484568000" lon="33.163261000">
+  <ele>1146.489502</ele>
+  <name>018</name>
+  <cmt>29-JUL-09 18:30:10</cmt>
+  <desc>29-JUL-09 18:30:10</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.286463000" lon="36.822914000">
+  <ele>1688.909180</ele>
+  <name>City Hall</name>
+  <cmt>23-JUL-09 11:10:13</cmt>
+  <desc>23-JUL-09 11:10:13</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.280963000" lon="36.818789000">
+  <ele>1670.644043</ele>
+  <name>Busstop</name>
+  <cmt>22-JUL-09 20:31:01</cmt>
+  <desc>22-JUL-09 20:31:01</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.274867000" lon="36.823552000">
+  <ele>1689.389893</ele>
+  <name>Gas St</name>
+  <cmt>24-JUL-09 11:18:26</cmt>
+  <desc>24-JUL-09 11:18:26</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.330674000" lon="36.925563000">
+  <ele>1580.761475</ele>
+  <name>Int Arriv</name>
+  <cmt>13-JUL-09 8:36:11</cmt>
+  <desc>13-JUL-09 8:36:11</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.891707000" lon="36.321442000">
+  <ele>1887.660156</ele>
+  <name>030</name>
+  <cmt>11-AUG-09 12:04:51</cmt>
+  <desc>11-AUG-09 12:04:51</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.832735000" lon="36.351846000">
+  <ele>1858.580566</ele>
+  <name>Crayfish Camp</name>
+  <cmt>11-AUG-09 7:10:15</cmt>
+  <desc>11-AUG-09 7:10:15</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-1.165255000" lon="36.956503000">
+  <ele>1546.394775</ele>
+  <name>Gas St1</name>
+  <cmt>24-JUL-09 12:06:07</cmt>
+  <desc>24-JUL-09 12:06:07</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.299958000" lon="35.901080000">
+  <ele>2179.177734</ele>
+  <name>014</name>
+  <cmt>28-JUL-09 17:40:15</cmt>
+  <desc>28-JUL-09 17:40:15</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.404753000" lon="36.107011000">
+  <ele>1770.139893</ele>
+  <name>Rhino</name>
+  <cmt>09-AUG-09 17:15:52</cmt>
+  <desc>09-AUG-09 17:15:52</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.392878000" lon="36.120432000">
+  <ele>1782.636963</ele>
+  <name>Lion1</name>
+  <cmt>10-AUG-09 9:21:25</cmt>
+  <desc>10-AUG-09 9:21:25</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.357803000" lon="36.055973000">
+  <ele>1874.201660</ele>
+  <name>View</name>
+  <cmt>10-AUG-09 10:33:05</cmt>
+  <desc>10-AUG-09 10:33:05</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.315529000" lon="36.085316000">
+  <ele>1790.327393</ele>
+  <name>Nakuru NP</name>
+  <cmt>09-AUG-09 13:33:04</cmt>
+  <desc>09-AUG-09 13:33:04</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.284570000" lon="36.069687000">
+  <ele>1854.494873</ele>
+  <name>029</name>
+  <cmt>09-AUG-09 11:54:33</cmt>
+  <desc>09-AUG-09 11:54:33</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.349723000" lon="36.204981000">
+  <ele>1893.427979</ele>
+  <name>Orphanage</name>
+  <cmt>28-JUL-09 9:36:43</cmt>
+  <desc>28-JUL-09 9:36:43</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.220495000" lon="36.006919000">
+  <ele>2012.390381</ele>
+  <name>Wc1</name>
+  <cmt>09-AUG-09 11:34:20</cmt>
+  <desc>09-AUG-09 11:34:20</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.636835000" lon="34.269448000">
+  <ele>1164.033203</ele>
+  <name>Malaba</name>
+  <cmt>29-JUL-09 14:38:14</cmt>
+  <desc>29-JUL-09 14:38:14</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.072542000" lon="35.542015000">
+  <ele>2720.636230</ele>
+  <name>015</name>
+  <cmt>29-JUL-09 9:39:23</cmt>
+  <desc>29-JUL-09 9:39:23</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.165635000" lon="35.464595000">
+  <ele>2495.929688</ele>
+  <name>028</name>
+  <cmt>09-AUG-09 9:12:54</cmt>
+  <desc>09-AUG-09 9:12:54</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.593307000" lon="34.554904000">
+  <ele>1456.752441</ele>
+  <name>017</name>
+  <cmt>29-JUL-09 13:20:56</cmt>
+  <desc>29-JUL-09 13:20:56</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.667635000" lon="37.219618000">
+  <ele>1200.082275</ele>
+  <name>River Tana</name>
+  <cmt>24-JUL-09 13:27:02</cmt>
+  <desc>24-JUL-09 13:27:02</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.520249000" lon="35.256366000">
+  <ele>2084.007813</ele>
+  <name>016</name>
+  <cmt>29-JUL-09 11:04:33</cmt>
+  <desc>29-JUL-09 11:04:33</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.010522000" lon="36.264214000">
+  <ele>2353.415283</ele>
+  <name>Sambuiki</name>
+  <cmt>28-JUL-09 8:14:36</cmt>
+  <desc>28-JUL-09 8:14:36</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.447422000" lon="35.421960000">
+  <ele>2268.820068</ele>
+  <name>Overland Stop</name>
+  <cmt>08-AUG-09 17:53:44</cmt>
+  <desc>08-AUG-09 17:53:44</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.519685000" lon="35.273054000">
+  <ele>2079.682129</ele>
+  <name>Smarket1</name>
+  <cmt>08-AUG-09 16:39:29</cmt>
+  <desc>08-AUG-09 16:39:29</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.387287000" lon="37.001231000">
+  <ele>1756.921875</ele>
+  <name>Mdl</name>
+  <cmt>24-JUL-09 15:26:29</cmt>
+  <desc>24-JUL-09 15:26:29</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.045015000" lon="36.368483000">
+  <ele>2342.840820</ele>
+  <name>Thomson Falls</name>
+  <cmt>27-JUL-09 16:22:32</cmt>
+  <desc>27-JUL-09 16:22:32</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="-0.113451000" lon="37.043380000">
+  <ele>1951.587402</ele>
+  <name>Bantu Lodge</name>
+  <cmt>24-JUL-09 16:14:48</cmt>
+  <desc>24-JUL-09 16:14:48</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.567237000" lon="37.535536000">
+  <ele>879.965820</ele>
+  <name>Hq</name>
+  <cmt>26-JUL-09 9:40:26</cmt>
+  <desc>26-JUL-09 9:40:26</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.572566000" lon="37.537464000">
+  <ele>881.167480</ele>
+  <name>Lodge</name>
+  <cmt>26-JUL-09 14:14:18</cmt>
+  <desc>26-JUL-09 14:14:18</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.597276000" lon="37.596174000">
+  <ele>865.546143</ele>
+  <name>Eleph</name>
+  <cmt>26-JUL-09 8:02:20</cmt>
+  <desc>26-JUL-09 8:02:20</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.628695000" lon="37.638922000">
+  <ele>851.847412</ele>
+  <name>Park Gate</name>
+  <cmt>26-JUL-09 6:23:08</cmt>
+  <desc>26-JUL-09 6:23:08</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.631745000" lon="37.646507000">
+  <ele>856.413818</ele>
+  <name>Umoja</name>
+  <cmt>26-JUL-09 18:21:28</cmt>
+  <desc>26-JUL-09 18:21:28</desc>
+  <sym>Golf Course</sym>
+</wpt>
+<wpt lat="0.631305000" lon="37.660263000">
+  <ele>859.778320</ele>
+  <name>Samburu</name>
+  <cmt>25-JUL-09 14:21:41</cmt>
+  <desc>25-JUL-09 14:21:41</desc>
+  <sym>Golf Course</sym>
+</wpt>
+</gpx>

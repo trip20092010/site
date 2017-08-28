@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta property="dc:creator" content="Kaarel Kaljurand"/>
+<meta property="dc:language" content="EN"/>
+<meta property="dc:description" content="List for travel-related software (to be) used
+(and written if needed) to make the trip20092010 website better."/>
+
+<link rel="stylesheet" title="default" href="../../css/main.css" media="screen" type="text/css"/>
+
+<script type="text/javascript" src="../../js/toc.js"></script>
+<title>Travel software</title>
+</head>
+
+<body onload="toc(1, 1)">
+
+<h1>Travel software</h1>
+
+<p>Mostly a TODO-list/wishlist of travel-related software that would be useful to have or that
+would be interesting to implement if traveling didn't take most of the
+focus. Let us know if something listed here already exists.</p>
+
+<h2>TODO list</h2>
+
+<h3>GPS data &rarr; movie</h3>
+
+<p>Tool that takes a GPX file as input and as output generates
+a Google Earth style movie where the camera flies over all the
+locations in the GPX file, in the correct sequence, pausing and zooming
+in to places where there is a larger concentration of trackpoints
+(or where there is a waypoint). For such locations also human-readable
+placenames would be shown. In the corner of the movie, the
+timestamp (e.g. "Day 12, afternoon")
+that corresponds to the current location is shown.</p>
+
+<p>The duration of the resulting movie
+is given as an input argument. The movie could be recorded in real-time
+allowing for the simultaneous recording of audio commentary and
+mouse pointer movements.</p>
+
+<p>[BUG: maybe already possible with Google Earth?]</p>
+
+
+<h3>GPS data and border crossings</h3>
+
+<p>Software that takes a list of timestamped long-lat coordinates
+as input and outputs a timestamped list of human-readable names
+of border crossings that correspond to the GPS data.</p>
+
+<p>See also: <a href="http://gis.stackexchange.com/questions/1938/">Software
+for analyzing GPS tracklogs to extract human-readable placenames</a>.</p>
+
+<h3>F-Spot - Picasaweb synchronizer</h3>
+
+<p>Program which updates the F-Spot database (<code>photos.db</code>)
+and the Picasaweb representation of the photos of the database if a photo
+is changed (tags, caption, location etc. edited)
+in the database or on Picasaweb. UI example:</p>
+
+<pre>
+photo-sync trip20092010 ~/.config/f-spot/photos.db
+</pre>
+
+<h3>amr-to-mp3 converter</h3>
+
+<p>... that works under Linux. My Sony-Ericsson cell phone
+can record sounds only into the amr-format, which I've only managed
+to playback with Quicktime on Mac. ;(</p>
+
+<h3>Waypoint generator</h3>
+
+<p>Given a set of lon/lat-coordinates this program would create a waypoint
+for (i.e. in the center of) every larger concentration of coordinates and
+map this point to a placename and plot it on Google Maps. This would allow
+us to list and visualize all the major towns that we have passed through.</p>
+
+<h3>Customized travel guide generator</h3>
+
+<p>Given a sequence of waypoints generate a PDF- or HTML-file
+containing articles (based e.g. on Wikipedia and Wikitravel)
+about the towns, natural features etc. whose geographical location corresponds
+to one of the waypoints (given a certain
+value of proximity). Does Wikipedia or DBPedia provide a webservice
+implementing the function <em>&phi;(location, radius) &rarr; set of articles</em>?
+Such a program could also allow for the specification of sections
+which should not be included in the guide
+(e.g. restaurants, hotels above a certain price range).</p>
+
+<p>Motivation: we don't want to carry around a collection of out-of-date lonely planets
+which among useful things discuss also locations which we do not intend to visit,
+hotels/restaurants which are too expensive, etc.</p>
+
+
+<h3>Visa requirements</h3>
+
+<p>Program whose input is the names of two countries C1 and C2 and whose
+output is TRUE if citizens of C1 require a visa to enter C2 as a tourist,
+FALSE otherwise. Each country should be required to make sure that
+the data behind this service is up-to-date.</p>
+
+<p>Such a service would enable an automatic generation of pages
+such as <a href="http://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens">Wikipedia:
+Visa requirements for Estonian citizens</a>,
+and ranking countries by how mutual is their visa policy.</p>
+
+
+<h3>GPS and News</h3>
+
+<p>Given a sequence of timestamped lon/lat coordinates (like in a GPX file), map this
+sequence to a corresponding sequence of (links to) news stories, where each story
+describes an event which happened in a given time and place.
+This would help to discover events which happened while we where there, but which we missed
+for some reason.</p>
+
+<p>Is this possible with http://news.google.com?</p>
+
+
+<h3>GPS and Weather</h3>
+
+<p>Same as with news, but the coordinates and timestamp pair would be
+mapped to a description (and not a prediction!) of the weather at that place at that time. As we
+do not record the weather data during the trip, this
+would later help to answer questions like: where did we experience the heaviest
+rainfall, highest temperature, strongest wind, etc?</p>
+
+
+<h3>Most viewed photos on Picasaweb</h3>
+
+<p>Program to list the most viewed photos on trip20092010 Picasaweb.</p>
+
+<p>Strangely, the number of views does not seem to be available using the Picasa Web Albums Data API.
+See also
+<a href="http://groups.google.com/group/google-picasa-data-api/browse_thread/thread/3cf0af88a155c575">this post</a>.</p>
+
+<p>Maybe doable via Google Analytics?</p>
+
+
+<h3>Picasaweb and GPS data</h3>
+
+<p>Add EXIF lat/lon values to all the photos on the trip20092010 Picasaweb, based
+on the GPS data.</p>
+
+<p>Needed: Picasaweb API + software for aligning photo timestamps with GPX timestamps.</p>
+
+
+<h3>Picasaweb and longest beards</h3>
+
+<p>Program to find all the photos of a given person, and sort them in the order
+of the length of the person's beard on the picture. This would give a useful insight into
+the dynamics of the beard length (which is changing all the time during the trip).</p>
+
+<p>Needed: Picasaweb API + Google face detection software (probably not
+exposed yet through the Picasaweb API?) + (yet to be implemented?) beard length
+detection API.</p>
+
+
+<h3>YouTube spellchecker</h3>
+
+<p>Program to spellcheck all the video captions on trip20092010 YouTube.</p>
+
+
+<h3>YouTube and GPS data</h3>
+
+<p>Add lat/lon coordinates and timestamps to all the videos on the trip20092010 YouTube,
+based on the GPS data.</p>
+
+<p>The movie file that our camera creates does not seem to contain any timestamps,
+but this information is available in a separate JPEG-file created together
+with each movie. The timestamps in these files could be aligned with the timestamps
+in the GPX-files to obtain the geo-coordinates. The YouTube API could then be used to
+update the properties of the uploaded videos.</p>
+
+
+<h3>Antipode finder</h3>
+
+<p>Out of all the GPS tracklogs find a pair of lon/lat points that are "most opposite"
+to each other. See <a href="http://en.wikipedia.org/wiki/Antipodes">Wikipedia: Antipodes</a>.</p>
+
+
+<h3>Furthest inhabited places</h3>
+
+<p>Program that finds the furthest inhabited place from a given place (e.g. Tallinn).
+Is there a webservice (e.g. SPARQL query over DBPedia, or a query over Freebase)
+that does this?</p>
+
+
+<h2>DONE list</h2>
+
+<h3>Flag service: URLs for countries' flags' images</h3>
+
+<p>Reported to the Google Charts API team that the flags for Papua New Guinea
+and Macau are missing, see
+<a href="http://groups.google.com/group/google-chart-api/browse_thread/thread/0bcaaa69f6f03217#">the report</a>.</p>
+
+<h3>Search blog posts by location</h3>
+
+<p>Implement a Google Map (or a KML file)
+with the locations of all our blogposts marked
+on it and linked to the content of these posts.</p>
+
+<p>Implementation is based on Blogger Export format, XSLT,
+and KML. See <a href="../../tools/atom_to_kml.xslt">atom_to_kml.xslt</a>.</p>
+
+
+<h3>Most viewed videos on YouTube</h3>
+
+<p>Program that lists the most viewed videos on YouTube, that have been
+uploaded by a given list of users (e.g. trip20092010, nairobicapetown).
+YouTube's own display of the most viewed ranking seems to suck.</p>
+
+<h3>Picasaweb spellchecker</h3>
+
+<p>Program to spellcheck all the photo captions on trip20092010 Picasaweb.</p>
+
+<p>Solution:</p>
+
+<ol>
+<li>Simple Python program using the
+<a href="http://code.google.com/apis/picasaweb/overview.html">Picasa Web Albums Data API</a>
+to fetch all the captions.</li>
+<li>Using `aspell check' to automatically detect and manually fix the captions.</li>
+<li>Another Python program to replace all the captions with the changed captions.</li>
+</ol>
+
+<p>Result: 52 captions fixed in 32 albums.</p>
+
+<p>Note that in mid 2010 Picasaweb started supporting the editing of all the
+album's captions on a single page. In this way the built-in spellchecking support
+of Firefox can be used to search for spelling mistakes and fix them.
+This solution is somewhat more convenient to use than the one described above.</p>
+
+<div class="footer">
+Kaarel
+</div>
+
+</body>
+</html>

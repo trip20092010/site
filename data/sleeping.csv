@@ -1,0 +1,409 @@
+20090712	plane, Cairo -> Nairobi
+20090713	dbl-b, Arusha Backpackers
+20090714	dbl-b, Arusha Backpackers
+20090715	tent, Machame camp
+20090716	tent, Shira camp
+20090717	tent, Barranco camp
+20090718	tent, Karanga camp
+20090719	tent, Barafu camp
+20090720	tent, Mweka camp
+20090721	dbl-b, Arusha Backpackers
+20090722	dbl+b, The Heron, Nairobi
+20090723	dbl+b, The Heron, Nairobi
+20090724	tent, Bantu Lodge
+20090725	tent, Umoja camp
+20090726	tent, Umoja camp
+20090727	tent, Thomson Falls
+20090728	tent, /a dairy farm/
+20090729	tent, NRE camp
+20090730	tent, NRE camp
+20090731	tent, NRE camp
+20090801	tent, Mbarara
+20090802	dorm, Fatimas, Ruhengeri, Rwanda
+20090803	dbl+b, Fatimas, Ruhengeri, Rwanda
+20090804	dbl+b, Fatimas, Ruhengeri, Rwanda
+20090805	tent, Mbarara
+20090806	tent, Entebbe
+20090807	tent, Entebbe
+20090808	tent, Overland Stop camp
+20090809	tent, Lake Nakuru park
+20090810	tent, Crayfish Camp
+20090811	tent, Crayfish Camp
+20090812	tent, Masai Mara camp
+20090813	tent, Karen, Nairobi, Kenya
+20090814	tent, Karen, Nairobi, Kenya
+20090815	tent, Snake Park camp, Tanzania
+20090816	tent, Snake Park camp, Tanzania
+20090817	tent, Simba camp, Tanzania
+20090818	tent, Masai camp, Arusha, Tanzania
+20090819	tent, Kunduchi House, Tanzania
+20090820	tent, Kunduchi House, Tanzania
+20090821	dbl+b, Stone Town, Tanzania
+20090822	bungalow, Sunset Bungalows, Tanzania
+20090823	bungalow, Sunset Bungalows, Tanzania
+20090824	bungalow, Sunset Bungalows, Tanzania
+20090825	tent, Kunduchi House, Tanzania
+20090826	dbl-b, Kisolanza Farm, Tanzania
+20090827	tent, Chitimba camp
+20090828	tent, Kande beach
+20090829	tent, Kande beach
+20090830	tent, Kande beach
+20090831	tent, Mabuya camp
+20090901	tent, Mama-Rula's camp
+20090902	tent, Croc Valley camp
+20090903	tent, Croc Valley camp
+20090904	tent, Mama-Rula's camp
+20090905	tent, Eureka camp
+20090906	dbl+b/boat, Kariba houseboat
+20090907	dbl+b/boat, Kariba houseboat
+20090908	dbl+b/boat, Kariba houseboat
+20090909	tent, Grotto camp, Livingstone, Zambia
+20090910	tent, Grotto camp, Livingstone, Zambia
+20090911	tent, Grotto camp, Livingstone, Zambia
+20090912	tent, Grotto camp, Livingstone, Zambia
+20090913	tent, Grotto camp, Livingstone, Zambia
+20090914	tent, Thebe camp
+20090915	tent, Sedia Hotel
+20090916	tent, Okavango delta
+20090917	tent, Okavango delta
+20090918	tent, Sedia Hotel
+20090919	tent, Ngepi camp, Namibia
+20090920	tent, Steakhouse "Die Kraal", Namibia
+20090921	tent, Namutoni camp, Namibia
+20090922	tent, Okaukuejo camp, Namibia
+20090923	tent, Cheetah Park camp, Namibia
+20090924	tent, Brandberg camp, Uis, Namibia
+20090925	dorm, Hotel zum Grünen Kranz, Swakopmund, Namibia
+20090926	dorm, Hotel zum Grünen Kranz, Swakopmund, Namibia
+20090927	dorm, Hotel zum Grünen Kranz, Swakopmund, Namibia
+20090928	dorm, Hotel zum Grünen Kranz, Swakopmund, Namibia
+20090929	tent, Sesriem, Namibia
+20090930	tent, Hobas, Namibia
+20091001	tent, Fiddlers Creek camp, South Africa
+20091002	tent, Gekko, Citrusdal, South Africa
+20091003	dorm, Stumble Inn, Stellenbosch, South Africa
+20091004	dorm, Ashanti Lodge, Cape Town, South Africa
+20091005	dbl+b, The Backpack, South Africa
+20091006	dbl+b, The Backpack, South Africa
+20091007	dbl+b, The Backpack, South Africa
+20091008	dbl+b, The Backpack, South Africa
+20091009	plane, Cape Town -> Istanbul
+20091111	dbl+b, Renaissance (?) Hotel, London, UK
+20091112	dbl+b, Renaissance (?) Hotel, London, UK
+20091113	plane, London -> São Paulo
+20091114	dbl+b, Hotel Joamar, São Paulo, Brazil
+20091115	dbl+b, Hotel Joamar, São Paulo
+20091116	dbl-b, Newtown's Rooftop, Rio de Janeiro
+20091117	dbl-b, Newtown's Rooftop, Rio de Janeiro
+20091118	dbl-b, Newtown's Rooftop, Rio de Janeiro
+20091119	dbl+b, Ouro Preto
+20091120	bus, Ouro Preto -> Vitória
+20091121	bus, Vitória -> Salvador
+20091122	dorm, Salvador
+20091123	dorm, Salvador
+20091124	bus, Salvador -> Recife
+20091125	bus, Recife -> São Luis
+20091126	dbl+b, Hotel Lord, São Luis
+20091127	dbl+b, Hotel Lord, São Luis
+20091128	dbl+b, Hostel Amazonia, Belém
+20091129	dbl+b, Hostel Amazonia, Belém
+20091130	dbl+b, Hostel Amazonia, Belém
+20091201	hammock/boat, N/M Santarém
+20091202	hammock/boat, N/M Santarém
+20091203	hammock/boat, N/M Santarém
+20091204	dbl+b, Hostel Alter do Chão
+20091205	hammock/beach, Tapajos Natural Forest
+20091206	dbl+b, Hostel Alter do Chão
+20091207	hammock/boat, N/M Ana Beatriz III to Manaus
+20091208	hammock/boat, N/M Ana Beatriz III to Manaus
+20091209	dbl+b, Hostel Manaus
+20091210	dbl+b, Hostel Manaus
+20091211	dbl+b, Hostel Manaus
+20091212	hammock/boat, N/M Ludovico Celani
+20091213	hammock/boat, N/M Ludovico Celani
+20091214	bungalow, Pousada Uacari
+20091215	bungalow, Pousada Uacari
+20091216	bungalow, Pousada Uacari
+20091217	bungalow, Pousada Uacari
+20091218	mat/boat, N/M Sagrado Coração de Jesus, Amazonas, Brazil
+20091219	mat/boat, N/M Sagrado Coração de Jesus, Amazonas, Brazil
+20091220	mat/boat, N/M Sagrado Coração de Jesus, Amazonas, Brazil
+20091221	mat/boat, N/M Sagrado Coração de Jesus, Amazonas, Brazil
+20091222	dbl+b, Hostal Bagpackers, Tabatinga
+20091223	dbl+b, Hostel Hobo Hideout, Iquitos
+20091224	dbl+b, Hostel Hobo Hideout, Iquitos
+20091225	dbl+b, Hostel Hobo Hideout, Iquitos
+20091226	bus, Lima -> Trujillo
+20091227	dbl+b, Plazuela el Recreo, Trujillo
+20091228	bus, Trujillo -> Aguas Verdes
+20091229	bus, Huaquillas -> Quito
+20091230	dbl-b, L'Auberge Inn, Quito
+20091231	dbl+b, Torre Malaga, Quito
+20100101	dbl+b, Torre Malaga, Quito
+20100102	dbl-b, Hostel San Luis, Otavalo
+20100103	dbl+b, Torre Malaga, Quito
+20100104	dbl+b, Cabañas, Quilotoa
+20100105	dbl+b, Plantas y Blanco, Baños
+20100106	dbl+b, Plantas y Blanco, Baños
+20100107	dbl+b, Plantas y Blanco, Baños
+20100108	dbl+b, Transilvania, Baños, Ecuador
+20100109	dbl+b, Transilvania, Baños, Ecuador
+20100110	dbl+b, Transilvania, Baños, Ecuador
+20100111	dbl+b, Transilvania, Baños, Ecuador
+20100112	dbl+b, Transilvania, Baños, Ecuador
+20100113	dbl+b, Transilvania, Baños, Ecuador
+20100114	dbl+b, Hotel Ecuador, Guayaquil
+20100115	dbl+b, Hotel Ecuador, Guayaquil
+20100116	dbl+b, Hotel Lirio del Mar, Puerto Ayora
+20100117	dbl+b, Hotel Lirio del Mar, Puerto Ayora
+20100118	dbl+b, Hotel Lirio del Mar, Puerto Ayora
+20100119	dbl+b/boat, Flamingo
+20100120	roof/dbl+b/boat, Flamingo
+20100121	roof/dbl+b/boat, Flamingo
+20100122	dbl+b, El Cafecito, Cuenca
+20100123	dbl-b, Hotel Pichinca, Cuenca
+20100124	bus, Cuenca -> Piura
+20100125	bus, Piura -> Lima
+20100126	dbl+b, San Isidro, Pisco
+20100127	dbl-b, San Isidro, Pisco
+20100128	dbl-b, Yemeyá, Nazca
+20100129	dbl-b, Yemeyá, Nazca
+20100130	dbl-b, Yemeyá, Nazca
+20100131	bus, Nazca -> Arequipa
+20100201	dbl-b, Hostal Like Home, Arequipa
+20100202	dbl-b, Hostal Like Home, Arequipa
+20100203	dbl-b, Cosñirhua, Colca canyon
+20100204	dbl-b, Paraiso, Sangalle, Colca canyon
+20100205	dbl-b, Hostal Like Home, Arequipa
+20100206	tent, El Misti basecamp
+20100207	dbl+b, Hostal Like Home, Arequipa
+20100208	dbl+b, Hospidaje Guest House, Puno
+20100209	dbl+b, Kusillos, Puno
+20100210	dbl+b, Kusillos, Puno
+20100211	dbl+b, Kusillos, Puno
+20100212	dbl+b, Kusillos, Puno
+20100213	dbl-b, Lago Sagrado, Copacabana
+20100214	sng-b, Lago Sagrado, Copacabana
+20100215	dbl-b, Las Brujas, La Paz
+20100216	dbl-b, Las Brujas, La Paz
+20100217	dbl-b, Las Brujas, La Paz
+20100218	dorm, Refugio 1, Huayna Potosi, Bolivia
+20100219	dorm, Refugio 2, Huayna Potosi, Bolivia
+20100220	dbl+b, Hotel Majestic, La Paz, Bolivia
+20100221	bus, La Paz -> Potosi
+20100222	dorm, Koala Den, Potosi
+20100223	dbl-b, Palace, Uyuni
+20100224	dorm, Chuvica (?)
+20100225	dorm, Laguna Colorada
+20100226	dbl-b, Reiko (?), San Pedro de Atacama
+20100227	bus, San Pedro de Atacama -> Santiago
+20100228	dbl-b, Residencia en El Cerro, Valparaiso
+20100301	dbl-b, Residencia en El Cerro, Valparaiso
+20100302	dorm, Ruca Potu, Mendoza
+20100303	bus, Mendoza -> Bariloche
+20100304	dbl+b, Ambiente Familiar, Puerto Montt, Chile
+20100305	dbl-b/boat, Evangelistas
+20100306	dbl-b/boat, Evangelistas
+20100307	dbl-b/boat, Evangelistas
+20100308	dbl-b, Bertila, Puerto Natales
+20100309	tent, Las Carretas, Torres del Paine
+20100310	tent, Los Guardas, Torres del Paine
+20100311	tent, Italiano, Torres del Paine
+20100312	tent, Los Cuernos, Torres del Paine
+20100313	tent, Torres, Torres del Paine
+20100314	dbl-b, Bertila, Puerto Natales
+20100315	dorm, Estrella Celeste, El Calafate
+20100316	dorm, ???, Rio Gallegos
+20100317	dorm, Patagonia Pais, Ushuaia
+20100318	dorm, Patagonia Pais, Ushuaia
+20100319	dorm, Patagonia Pais, Ushuaia
+20100320	dbl+b, Telmotango, Buenos Aires, Argentina
+20100321	dbl-b, Hostel Inn Buenos Aires, Buenos Aires, Argentina
+20100322	dbl-b, Hostel Inn Buenos Aires, Buenos Aires, Argentina
+20100323	bus, Buenos Aires -> Puerto Iguazu, Argentina
+20100324	dbl-b, Las Palmeras, Puerto Iguazu, Argentina
+20100325	dbl-b, Las Palmeras, Puerto Iguazu, Argentina
+20100326	dbl-b, Las Palmeras, Puerto Iguazu, Argentina
+20100327	dbl-b, Las Palmeras, Puerto Iguazu, Argentina
+20100328	dbl-b, Las Palmeras, Puerto Iguazu, Argentina
+20100329	dbl-b, Las Palmeras, Puerto Iguazu, Argentina
+20100330	bus, Cascavel -> Campo Grande
+20100331	dbl+b, HI Hostel Campo Grande, Campo Grande, Brazil
+20100401	hammock/shelter, Pantanal
+20100402	hammock/shelter, Pantanal
+20100403	hammock/shelter, Pantanal
+20100404	bus, Campo Grande -> São Paulo
+20100405	dbl+b, HI Hostel São Paulo, São Paulo, Brazil
+20100406	dbl+b, HI Hostel São Paulo, São Paulo, Brazil
+20100407	tent, Cabañas Chez Cecilia, Hanga Roa, Rapa Nui
+20100408	tent, Cabañas Chez Cecilia, Hanga Roa, Rapa Nui
+20100409	tent, Cabañas Chez Cecilia, Hanga Roa, Rapa Nui
+20100410	tent, Cabañas Chez Cecilia, Hanga Roa, Rapa Nui
+20100411	dorm, Pension Fifi, Faaa, Tahiti, French Polynesia
+20100412	dorm, Pension Fifi, Faaa, Tahiti, French Polynesia
+20100413	dorm, Pension Fifi, Faaa, Tahiti, French Polynesia
+20100414	bungalow, Pension Armelle "Fare Te Nahe To'e To'e", Parea, Huahine, French Polynesia
+20100415	bungalow, Pension Armelle "Fare Te Nahe To'e To'e", Parea, Huahine, French Polynesia
+20100416	dbl-b, Pension Robert et Tina, Bora Bora, French Polynesia
+20100417	dbl-b, Pension Robert et Tina, Bora Bora, French Polynesia
+20100418	dbl-b, Pension Fifi, Faaa, Tahiti, French Polynesia
+20100419	dbl-b, Pension Fifi, Faaa, Tahiti, French Polynesia
+20100420	dorm, Pension Fifi, Faaa, Tahiti, French Polynesia
+20100421	(dateline)
+20100422	dbl-b, Nomads Fat Camel, Auckland, New Zealand
+20100423	dbl-b, Nomads Fat Camel, Auckland, New Zealand
+20100424	dbl-b, Nomads Fat Camel, Auckland, New Zealand
+20100425	dbl-b, Nomads Fat Camel, Auckland, New Zealand
+20100426	dbl-b, Nomads Maze, Sydney, Australia
+20100427	dbl-b, Nomads Maze, Sydney, Australia
+20100428	dbl-b, Nomads Maze, Sydney, Australia
+20100429	couch, MJ's, Parramatta, Australia
+20100430	dbl-b, Caravella, Cairns, Australia
+20100501	dbl+b, Hotel Gateway, Port Moresby, Papua New Guinea
+20100502	bungalow, Kumul lodge, Enga province, Papua New Guinea
+20100503	bungalow, Magic Mountain lodge, Western Highlands province, Papua New Guinea
+20100504	bungalow, Magic Mountain lodge, Western Highlands province, Papua New Guinea
+20100505	dbl+b, Lutheran Guesthouse, Goroka, Papua New Guinea
+20100506	dbl+b, Lutheran Guesthouse, Goroka, Papua New Guinea
+20100507	dbl+b, Lutheran Guesthouse, Madang, Papua New Guinea
+20100508	dbl+b, Lutheran Guesthouse, Madang, Papua New Guinea
+20100509	dbl+b, Lutheran Guesthouse, Madang, Papua New Guinea
+20100510	dbl-b, Caravella, Cairns, Australia
+20100511	dbl-b, Caravella, Cairns, Australia
+20100512	dbl-b, Caravella, Cairns, Australia
+20100513	dbl-b, Caravella, Cairns, Australia
+20100514	dbl+b, Tator, Jakarta, Indonesia
+20100515	dbl+b, Tator, Jakarta, Indonesia
+20100516	dbl+b, Tator, Jakarta, Indonesia
+20100517	dbl+b, Merbabu, Yogyakarta, Indonesia
+20100518	dbl+b, Merbabu, Yogyakarta, Indonesia
+20100519	dbl+b, Merbabu, Yogyakarta, Indonesia
+20100520	dbl+b, Merbabu, Yogyakarta, Indonesia
+20100521	dbl-b, Yoschi's, Wonokerto, Indonesia
+20100522	dbl-b, Yoschi's, Wonokerto, Indonesia
+20100523	dbl-b, New Cahaya Hotel, Surabaya, Indonesia
+20100524	dbl+b, Losmen Sibayak, Berastagi, Indonesia
+20100525	dbl+b, Losmen Sibayak, Berastagi, Indonesia
+20100526	dbl+b, Leuser Sibayak, Bukit Lawang, Indonesia
+20100527	dbl+b, Leuser Sibayak, Bukit Lawang, Indonesia
+20100528	dbl+b, Leuser Sibayak, Bukit Lawang, Indonesia
+20100529	tent, Gunung Leuser National Park, Indonesia
+20100530	dbl+b, Leuser Sibayak, Bukit Lawang, Indonesia
+20100531	dbl+b, Pondok Wisata Angel, Medan, Indonesia
+20100601	dbl-b, Crystal Guesthouse, Georgetown, Malaysia
+20100602	dbl-b, Tourist Guest House, Georgetown, Malaysia
+20100603	dbl-b, Tourist Guest House, Georgetown, Malaysia
+20100604	dbl-b, Tourist Guest House, Georgetown, Malaysia
+20100605	dbl+b, ???, Thale Noi, Thailand
+20100606	train, Phatthalung -> Bangkok
+20100607	dbl+b, New Siam GH, Bangkok, Thailand
+20100608	dbl+b, New Siam GH, Bangkok, Thailand
+20100609	dbl+b, New Siam GH, Bangkok, Thailand
+20100610	dbl+b, New Siam GH, Bangkok, Thailand
+20100611	dbl+b, Happy House, Bangkok, Thailand
+20100612	dbl+b, Happy House, Bangkok, Thailand
+20100613	dbl+b, Happy House, Bangkok, Thailand
+20100614	dbl+b, Happy House, Bangkok, Thailand
+20100615	dbl+b, Happy House, Bangkok, Thailand
+20100616	dbl+b, Happy House, Bangkok, Thailand
+20100617	dbl+b, Happy House, Bangkok, Thailand
+20100618	bus, Bangkok -> Chiang Mai, Thailand
+20100619	sng+b, Golden House, Chiang Mai, Thailand
+20100620	sng+b, Golden House, Chiang Mai, Thailand
+20100621	sng+b, Golden House, Chiang Mai, Thailand
+20100622	dorm, Jumbo camp, close to Chiang Mai, Thailand
+20100623	dorm, Lahu village, close to Chiang Mai, Thailand
+20100624	sng+b, Golden House, Chiang Mai, Thailand
+20100625	sng+b, Golden House, Chiang Mai, Thailand
+20100626	dbl-b, Namkhong, Chiang Khong, Thailand
+20100627	bungalow, Vieng Phoukha, Laos
+20100628	village, close to Vieng Phoukha, Laos
+20100629	village, close to Vieng Phoukha, Laos
+20100630	dbl+b, ???, Ban Houayxay, Laos
+20100701	dbl+b, Phoy Lath Da Guest House, Pakbeng, Laos
+20100702	dbl+b, Nam Sok, Luang Prabang, Laos
+20100703	dbl+b, Nam Sok, Luang Prabang, Laos
+20100704	dbl+b, Nam Sok, Luang Prabang, Laos
+20100705	dbl+b, Nam Sok, Luang Prabang, Laos
+20100706	dbl+b, Sabaidee, Phonsavan, Laos
+20100707	dbl+b, Sabaidee, Phonsavan, Laos
+20100708	dbl+b, Hanoi Lucky Hotel, Hanoi, Vietnam
+20100709	dbl+b, Hanoi Lucky Hotel, Hanoi, Vietnam
+20100710	dbl+b, Hanoi Lucky Hotel, Hanoi, Vietnam
+20100711	dbl+b, Hanoi Lucky Hotel, Hanoi, Vietnam
+20100712	dbl+b/boat, Boat Imperial, Halong Bay, Vietnam
+20100713	bungalow, Nam Cat Island Resort, Halong Bay, Vietnam
+20100714	bus, 15h, Hanoi -> Hue, Vietnam
+20100715	dbl+b, Ngọc Bình, Hue, Vietnam
+20100716	dbl+b, Ngọc Bình, Hue, Vietnam
+20100717	dbl+b, Pho Hoi 1, Hoi An, Vietnam
+20100718	dbl+b, Pho Hoi 1, Hoi An, Vietnam
+20100719	bus, 11h, Hoi An -> Nha Trang, Vietnam
+20100720	dbl+b, Nhi Hang, Nha Trang, Vietnam
+20100721	dbl+b, Nice Dream, Dalat, Vietnam
+20100722	dbl+b, Nice Dream, Dalat, Vietnam
+20100723	dbl+b, Sea Winds Resort, Muine, Vietnam
+20100724	dbl+b, Sea Winds Resort, Muine, Vietnam
+20100725	dbl+b, Thien Hong, HCMC, Vietnam
+20100726	dbl+b, Thien Hong, HCMC, Vietnam
+20100727	dbl+b, Thien Hong, HCMC, Vietnam
+20100728	dbl+b, Thien Hong, HCMC, Vietnam
+20100729	dbl+b, Huy Hoang, Can Tho, Vietnam
+20100730	dbl+b, Vinh Phuoc, Chau Doc, Vietnam
+20100731	dbl+b, King Guesthouse, Phnom Penh, Cambodia
+20100801	dbl+b, King Guesthouse, Phnom Penh, Cambodia
+20100802	bungalow, G.S.T Guesthouse, Sihanoukville, Cambodia
+20100803	bungalow, G.S.T Guesthouse, Sihanoukville, Cambodia
+20100804	dbl+b, Star, Kratie, Cambodia
+20100805	dbl+b, Ta Som, Siem Reap, Cambodia
+20100806	dbl+b, Ta Som, Siem Reap, Cambodia
+20100807	dbl+b, Ta Som, Siem Reap, Cambodia
+20100808	dbl+b, Ta Som, Siem Reap, Cambodia
+20100809	dbl+b, Ta Som, Siem Reap, Cambodia
+20100810	dbl+b, Ta Som, Siem Reap, Cambodia
+20100811	dbl+b, Happy House, Bangkok, Thailand
+20100812	dbl+b, Happy House, Bangkok, Thailand
+20100813	dbl+b, Happy House, Bangkok, Thailand
+20100814	plane, 4h, Bangkok -> Mumbai
+20100815	dbl-b, Popular Palace, Mumbai, India
+20100816	dbl-b, Popular Palace, Mumbai, India
+20100817	dbl-b, Popular Palace, Mumbai, India
+20100818	train, 9h, Mumbai -> Ahmedabad, India
+20100819	dbl+b, Good Night, Ahmedabad, India
+20100820	dbl+b, Mehul, Ahmedabad, India
+20100821	dbl+b, Mehul, Ahmedabad, India
+20100822	dbl+b, Mehul, Ahmedabad, India
+20100823	dbl+b, Mehul, Ahmedabad, India
+20100824	dbl+b, Volga, Ahmedabad, India
+20100825	dbl+b, Volga, Ahmedabad, India
+20100826	dbl+b, Volga, Ahmedabad, India
+20100827	dbl+b, Volga, Ahmedabad, India
+20100828	dbl+b, Volga, Ahmedabad, India
+20100829	dbl+b, Volga, Ahmedabad, India
+20100830	dbl+b, Volga, Ahmedabad, India
+20100831	plane, 6h, Mumbai -> Hong Kong
+20100901	dbl+b, TST Kowloon Guesthouse, Kowloon, Hong Kong
+20100902	dbl+b, TST Kowloon Guesthouse, Kowloon, Hong Kong
+20100903	dbl+b, TST Kowloon Guesthouse, Kowloon, Hong Kong
+20100904	dbl+b, TST Kowloon Guesthouse, Kowloon, Hong Kong
+20100905	dbl+b, TST Kowloon Guesthouse, Kowloon, Hong Kong
+20100906	dbl+b, TST Kowloon Guesthouse, Kowloon, Hong Kong
+20100907	dbl+b, TST Kowloon Guesthouse, Kowloon, Hong Kong
+20100908	dbl+b, TST Kowloon Guesthouse, Kowloon, Hong Kong
+20100909	dbl-b, San Va Hospedaria, Macau
+20100910	dbl-b, San Va Hospedaria, Macau
+20100911	dbl-b, San Va Hospedaria, Macau
+20100912	dbl+b, Beijing Fei Ying Business Hotel, Beijing, China
+20100913	dbl-b, Flowering House Hostel, Beijing, China
+20100914	dbl-b, Flowering House Hostel, Beijing, China
+20100915	dbl-b, Flowering House Hostel, Beijing, China
+20100916	dbl-b, Flowering House Hostel, Beijing, China
+20100917	dbl-b, Flowering House Hostel, Beijing, China
+20100918	dbl-b, Flowering House Hostel, Beijing, China
+20100919	train, 11h, Beijing West -> Xi'an, China
+20100920	dbl+b, Ludao Hotel, Xi'an, China
+20100921	dbl+b, Ludao Hotel, Xi'an, China
+20100922	dbl+b, Ludao Hotel, Xi'an, China
+20100923	train, 13h, Xi'an -> Beijing West, China
+20100924	dbl-b, Flowering House Hostel, Beijing, China
+20100925	dbl-b, Flowering House Hostel, Beijing, China

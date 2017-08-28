@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta property="dc:creator" content="Kaarel Kaljurand"/>
+<meta property="dc:title" content="Trip 2009-2010 GPS tracks"/>
+<meta property="dc:language" content="EN"/>
+<meta property="dc:description" content="Trip 2009-2010 GPS tracks, converted from GPX to KML, viewable on Google Maps or Google Earth."/>
+
+<link rel="stylesheet" title="default" href="css/main.css" media="screen" type="text/css"/>
+
+<style type="text/css">
+h2 {
+	border-bottom: 2px #777 dotted;
+}
+h3 img {
+	vertical-align: middle;
+}
+</style>
+
+<title>Trip 2009-2010 GPS tracks</title>
+</head>
+
+<body>
+
+<h1>Trip 2009-2010 GPS tracks</h1>
+
+<p>The following is a list of GPS tracklogs for each day of the trip.
+Click on the links to have the KML-formatted tracklogs plotted on Google Earth (kml) or Google Maps (map).</p>
+
+<!--
+<p>In order to generate KML, the GPX-files coming from the GPS-device were first "flattened" by a simple XSLT script
+to merge the "active logs", and then converted into KML by <a href="http://www.gpsbabel.org">gpsbabel</a>:</p>
+
+<pre>
+gpsbabel -i gpx -o 'kml,trackdata=0,points=0,line_color=990000ff,labels=0,units=m' -f 20090713.gpx -F 20090713.kml
+</pre>
+-->
+
+<p>Quicklinks:
+<a href="#Africa">Africa</a>,
+<a href="#South_America">South America</a>,
+<a href="#Oceania">Oceania</a>,
+<a href="#Asia">Asia</a>,
+<a href="#last_day">last day</a>.</p>
+
+<a name="Africa"/>
+<h2>Africa</h2>
+
+<div class="right">
+<p><a href="africa/index.html">Africa notes</a></p>
+<a href="http://maps.google.com/maps?q=http://files.dropbox.com/u/1397729/trip2009/kml/selected/africa.kml"
+title="The complete track through the African countries. (Click on the picture to see a zoomable version.)"><img src="africa/images/track_map.png"/></a>
+</div>
+
+<h3>Kenya (1)</h3>
+
+<ul>
+20090713	... -plane-> Nairobi; Nairobi -minibus-> Arusha, Tanzania
+</ul>
+
+
+<h3>Tanzania (9)</h3>
+
+<ul>
+20090714	Arusha
+20090715	Arusha -minibus-> Machame gate -> Machame camp
+20090716	Machame camp -> Shira camp
+20090717	Shira camp -> Lava Tower -> Barranco camp
+20090718	Barranco camp -> Karanga camp
+20090719	Karanga camp -> Barafu camp, at 23:30 started out for Uhuru peak -> ...
+20090720	... -> Stella Point -> Uhuru peak -> Barafu camp -> High Camp -> Mweka camp
+20090721	Mweka camp -> Mweka gate -minibus-> Arusha
+20090722	Arusha -minibus-> Nairobi
+</ul>
+
+
+<h3>Kenya (7)</h3>
+
+<ul>
+20090723	Nairobi
+20090724	Nairobi -> Bantu Lodge (<span class="hl">First day of the Absolute Africa trip.</span>)
+20090725	Bantu Lodge -> Umoja Camp
+20090726	gamedrive @ Samburu National Reserve
+20090727	Umoja Camp -> Thomson Falls
+20090728	Thomson Falls -> orphanage -> Nakuru -> /a dairy farm/
+20090729	/the dairy farm/ -> Nile River Explorer (NRE) camp, Bujagali, Uganda
+</ul>
+
+
+<h3>Uganda (4)</h3>
+
+<ul>
+20090730	Day with Soft Power Education. [No recording]
+20090731	NRE camp -bodaboda-> Jinja; Walking around in Jinja; Jinja -bodaboda-> NRE camp
+20090801	Jinja -> Kampala -> Mbarara. Wasn't recording during the 2nd half as battery was empty.
+20090802	Mbarara -> Ruhengeri, Rwanda
+</ul>
+
+
+<h3>Rwanda (3)</h3>
+
+<ul>
+20090803	Tracking the mountain gorillas in Volcanoes National Park. (Note that according to the August 2009 version of Google Maps we crossed over to DR Congo during the tracking, but this version was probably not accurate enough for this region.)
+20090804	Trip to a Twa village close to Ruhengeri (by car)
+20090805	Ruhengeri -> Genocide Museum, Kigali -> Mbarara, Uganda
+</ul>
+
+
+<h3>Uganda (3)</h3>
+
+<ul>
+20090806	Mbarara -> Entebbe
+20090807	Entebbe [Didn't record all the time.]
+20090808	Entebbe -> Eldoret, Kenya -> Overland Stop camp
+</ul>
+
+
+<h3>Kenya (7)</h3>
+
+<ul>
+20090809	Overland Stop camp -> Nakuru -> Lake Nakuru park; Afternoon gamedrive @ Lake Nakuru park
+20090810	Morning gamedrive @ Lake Nakuru park -> Nakuru -> Crayfish Camp, Lake Naivasha; Visit of Elsamere (Arrival at the camp and trip to Elsamere not recorded because battery empty.)
+20090811	Hell's Gate National Park (by bike, by walk)
+20090812	Crayfish Camp  -> Masai Mara camp; Afternoon gamedrive @ Masai Mara
+20090813	Morning gamedrive @ Masai Mara; Masai Mara -> Karen, Nairobi
+20090814	Giraffe Center and Elephant/rhino orphanage @ Nairobi
+20090815	Nairobi -> Arusha, Tanzania -> Snake Park camp, Meserani
+</ul>
+
+
+<h3>Tanzania (12)</h3>
+
+<ul>
+20090816	Snake Park camp -Pumba-> Arusha -> Tengeru (Lake Duluti) -> Arusha -> Snake Park camp (by dala-dala, unless written otherwise)
+20090817	Snake Park camp -> Simba camp, Ngorongoro
+20090818	gamedrive @ Ngorongoro crater; Simba camp, Ngorongoro -> Masai camp, Arusha
+20090819	Masai camp, Arusha -> Kunduchi House, Kunduchi
+20090820	Dar Es Salaam
+20090821	Kunduchi House -> Dar Es Salaam -> Stone Town; Spice Tour; Forodhani Gardens / Livingstone Bar, Stone Town
+20090822	Walking around in Stone Town; Stone Town -> Sunset Bungalows, Kendwa Beach
+20090823	Sunset Bungalows -boat-> Mnemba Atoll -boat-> Sunset Bungalows [No recording]
+20090824	Sunset Bungalows -> Jozani forest; visiting the Jozani forest and the nearby Seaturtle sanctuary; Jozani forest -> Sunset Bungalows
+20090825	Sunset Bungalows -> Stone Town; Walk in Stone Town; Stone Town -> Dar -> Kunduchi House (Recorded only the walk.)
+20090826	Kunduchi House -> Kisolanza Farm
+20090827	Kisolanza Farm -> Chitimba camp, Malawi
+</ul>
+
+<h3>Malawi (5)</h3>
+
+<ul>
+20090828	Chitimba camp -> Mzuzu -> Kande beach
+20090829	Village (Mbamba) walk @ Kande beach
+20090830	Fishing @ Kande beach
+20090831	Kande beach -> Lilongwe -> Mabuya camp
+20090901	Mabuya camp -> Mama-Rula's camp, Chipata, Zambia
+</ul>
+
+
+<h3>Zambia (13)</h3>
+
+<ul>
+20090902	Mama-Rula's camp -> Croc Valley camp, South Luangwa; Evening gamedrive @ South Luangwa (last 1h missing, battery empty)
+20090903	Morning gamedrive @ South Luangwa; Evening gamedrive @ South Luangwa
+20090904	Croc Valley camp -> Mama-Rula's camp
+20090905	Mama-Rula's camp -> Eureka camp, Lusaka
+20090906	Eureka camp, Lusaka -> Mazabuka (?) -> Harbour of <a href="http://www.houseboatcompany.com">houseboatcompany.com</a>, Lake Kariba
+20090907	Harbour of houseboatcompany.com, Lake Kariba -> Chete Island, Lake Kariba; Game drive
+20090908	Chete Island -> Fishing Camp 22, Lake Kariba; Sunset drive
+20090909	Fishing Camp 22 -> Harbour of houseboatcompany.com -> Choma -> Grotto camp, Livingstone
+20090910	Grotto camp -> Mosi-oa-Tunya NP -> Livingstone Island -> Mosi-oa-Tunya NP -> Grotto camp
+20090911	Grotto camp -> local school -> Livingstone -> Grotto camp
+20090912	Grotto camp -> Livingstone -> Grotto camp
+20090913	Grotto camp -> Bridge over Zambia-<b>Zimbabwe</b> border -> Livingstone -> Grotto camp -> Livingstone
+20090914	Grotto camp -> Kazungula (border crossing by ferry) -> Thebe camp, Kasane, Botswana
+</ul>
+
+
+<h3>Botswana (5)</h3>
+
+<ul>
+20090915	Thebe camp -> Nata -> Sedia Hotel, Maun
+20090916	Sedia Hotel -> some island in the Okavango Delta; evening gamewalk on the island
+20090917	morning gamewalk on the "main" island; evening mokoro trip to the hippo pool
+20090918	morning gamewalk on the island; Okavango Delta -> Sedia Hotel
+20090919	Sedia Hotel -> Ngepi camp, Caprivi strip, Namibia
+</ul>
+
+
+<h3>Namibia (12)</h3>
+
+<ul>
+20090920	Ngepi camp -> Rundu -> Steakhouse "Die Kraal", Grootfontain
+20090921	Die Kraal -> Hoba meteorite -> Tsumeb -> Namutoni camp
+20090922	Namutoni camp -> Halali -> Okaukuejo camp
+20090923	Okaukuejo camp -> Outjo -> Cheetah Park camp
+20090924	Cheetah Park camp -> Himba village -> Kamanjab -> Brandberg -> Brandberg camp, Uis
+20090925	Uis -> Cape Cross -> Hotel zum Grünen Kranz, Swakopmund; walk in Swakopmund
+20090926	Sandboarding close to Swakopmund
+20090927	Swakopmund [No recording]
+20090928	Swakopmund [-r]; Swakopmund -walk-> Mondesa -walk-> Swakopmund (approx. 10 km)
+20090929	Hotel zum Grünen Kranz -> Solitaire -> Sesriem -> Sossusvlei -> Dead Vlei -> Sesriem
+20090930	Sesriem -> Hobas -> Fish River Canyon; 3.8km walk along the canyon rim; Fish River Canyon -> Hobas
+20091001	Hobas -> Fiddlers Creek camp, South Africa
+</ul>
+
+<h3>South Africa (8)</h3>
+
+<ul>
+20091002	Fiddlers Creek camp -> Springbok -> Gekko, Citrusdal
+20091003	Gekko -> Stumble Inn, Stellenbosch; Walk around in Stellenbosch (e.g. University)
+20091004	Stumble Inn -> Ashanti Lodge, Cape Town; Ashanti Lodge -walk-> V&amp;A Waterfront -taxi-> Ashanti Lodge (<span class="hl">Last day of the Absolute Africa trip.</span>)
+20091005	The Backpack -walk-> V&amp;A Waterfront -taxi-> The Backpack
+20091006	The Backpack -> Kalk Bay -> Simon's Town -> Boulders -> Cape Point -walk-> Cape of Good Hope -> Steenberg -> The Backpack (by taxi, unless written otherwise)
+20091007	The Backpack -> Langa; walk in Langa; Langa -> Guguletu -> Khayelitsha -> The Backpack
+20091008	The Backpack -> Maclear's Beacon (1086m) -> Kirstenbosch National Botanical Gardens (13.5km, 5.5h walk); Kirstenbosch -taxi-> The Backpack
+20091009	The Backpack -taxi-> Cape Town Airport International Departures; Flight to Johannesburg, then Istanbul [-r]
+</ul>
+
+<h2>Europe</h2>
+
+<p>A month-long stop in Europe, ending in London:</p>
+
+<h3>United Kingdom (2)</h3>
+
+<ul>
+20091112	London
+20091113	London; London -plane-> ...
+</ul>
+
+<a name="South_America"/>
+<h2>South America</h2>
+<div class="right">
+<p><a href="south_america/index.html">South America notes</a></p>
+<a href="http://maps.google.com/maps?q=http://files.dropbox.com/u/1397729/trip2009/kml/selected/south_america.kml"
+title="The complete track through the South American countries. (Click on the picture to see a zoomable version.)"><img src="south_america/images/track_map.png"/></a>
+</div>
+
+<h3>Brazil (40)</h3>
+
+<ul>
+20091114	... -plane-> São Paulo; São Paulo
+20091115	São Paulo
+20091116	São Paulo -bus-> Rio de Janeiro
+20091117	Rio de Janeiro (Corcovado, Centro)
+20091118	Rio de Janeiro (Rocinha, Vila Canoas, Pão de Açúcar, Maracanã)
+20091119	Rio de Janeiro -bus-> Belo Horizonte -bus-> Ouro Preto
+20091120	Ouro Preto
+20091121	Ouro Preto -bus-> Vitória; Vitória
+20091122	Vitória -bus-> Salvador; Salvador
+20091123	Salvador
+20091124	Salvador; Bonfim; Salvador -bus-> ...
+20091125	... -bus-> Recife -bus-> Olinda -bus-> Recife -bus->
+20091126	... -bus-> São Luis
+20091127	São Luis -minibus-> Barreirinhas -truck-> lagoa azul, lagoa do peixe -truck-> Barreirinhas -minibus-> São Luis
+20091128	São Luis -bus-> ...
+20091129	... -bus-> Belém; Belém
+20091130	Belém
+20091201	Belém; On N/M Santarém (<span class="hl">First day of the Amazonas trip.</span>)
+20091202	On N/M Santarém
+20091203	On N/M Santarém
+20091204	On N/M Santarém; Santarém -bus-> Alter do Chão
+20091205	Tapajos Natural Forest
+20091206	Tapajos Natural Forest
+20091207	Alter do Chão -> Santarém; On N/M Ana Beatriz III to Manaus
+20091208	On N/M Ana Beatriz III to Manaus
+20091209	Walking around in Manaus
+20091210	Walking around in Manaus [Didn't record all the time]
+20091211	Walking around in Manaus; Manaus Centro -> Ceasa Port -> Encontro das Águas -> Ceasa port -> Manaus Centro; Walking around in Manaus
+20091212	On N/M Ludovico Celani to Tefé
+20091213	On N/M Ludovico Celani to Tefé
+20091214	Tefé -> Pousada Uacari; Hike in the jungle
+20091215	At Pousada Uacari (Village visit; Canoe trip; Night hike in the jungle)
+20091216	At Pousada Uacari (Hike in the jungle; Boat trip to Lake Mamiraua)
+20091217	At Pousada Uacari (Hike in the jungle; Counting <em>boto</em>s on Lake Mamiraua)
+20091218	Pousada Uacari -> Alvarães; On N/M Sagrado Coração de Jesus to Tabatinga
+20091219	On N/M Sagrado Coração de Jesus to Tabatinga
+20091220	On N/M Sagrado Coração de Jesus to Tabatinga
+20091221	On N/M Sagrado Coração de Jesus to Tabatinga
+20091222	Walking around in Tabatinga (Brazil) and Leticia (<b>Columbia</b>)
+20091223	Tabatinga -> Santa Rosa, Peru; Santa Rosa -> Iquitos; Walking around in Iquitos
+</ul>
+
+<h3>Peru (6)</h3>
+
+<ul>
+20091224	Belén, Iquitos
+20091225	Iquitos -> Manatee orphanage -> Quistococha Zoo -> Iquitos (<span class="hl">Last day of the Amazonas trip.</span>)
+20091226	Iquitos -plane-> Lima; Lima Airport -bus-> La Victoria
+20091227	Lima -> Trujillo; Trujillo; Trujillo -> Huanchaco -> Trujillo
+20091228	The <em>huacas</em>; Chan Chan; Huanchaco; Trujillo -> Aguas Verdes
+20091229	Aguas Verdes -> Huaquillas, Ecuador -bus-> Quito
+</ul>
+
+<h3>Ecuador (27)</h3>
+
+<ul>
+20091230	Quito
+20091231	Quito -> Mitad del Mundo; Pululawa; Mitad del Mundo -> Quito
+20100101	Quito -> Pichincha Rucu (reached approx. 4650m) -> Quito
+20100102	Quito -> Otavalo; Otavalo
+20100103	Otavalo -> Quito; Quito
+20100104	Quito -> Latacunga -> Quilotoa; Quilotoa
+20100105	Hiking to Laguna Quilotoa and back (2h); Quilotoa -> Latacunga -> Ambato -> Baños
+20100106	Baños [No recording]
+20100107	Baños [No recording]
+20100108	Baños [No recording]
+20100109	Baños [No recording]
+20100110	Baños [No recording]
+20100111	Baños -Chiva-> Bellavista -Chiva-> Baños
+20100112	Baños [Didn't record all the time]
+20100113	Baños -bike-> Mera -bus-> Baños
+20100114	Baños -bus-> Guayaquil Airport -taxi-> Guayaquil center
+20100115	Guayaquil
+20100116	Guayaquil center -taxi-> Guayaquil Airport -plane-> Baltra, Galapagos -bus+ferry-> Puerto Ayora
+20100117	Puerto Ayora -walk-> Tortuga Bay -walk-> Puerto Ayora -walk-> Darwin Research Center -walk-> Puerto Ayora
+20100118	Puerto Ayora -walk-> El Mirador (lava tunnels) -walk-> Puerto Ayora -boat+walk-> Las Grietas -walk+boat-> Puerto Ayora
+20100119	Puerto Ayora -bus-> El Chato (?) -bus-> Puerto Ayora
+20100120	Puerto Ayora -boat-> Playa Rojo, Rabida -boat-> Puerto Egas -boat-> Bartolome
+20100121	Bartolome -boat-> Sullivan Bay -boat-> Caleta Tortuga
+20100122	Caleta Tortuga -boat-> Baltra military base -bus-> Baltra Airport -plane-> Guayaquil Airport -taxi-> Guayaquil bus station -bus-> Cuenca bus station -taxi-> Hostel El Cafecito
+20100123	Cuenca; Turi; Baños
+20100124	Cuenca -> Gualaceo -> Chordeleg -> Sigsig -> Biblián -> Cuenca (by car); Cuenca -bus-> Machala
+20100125	Machala -bus-> Huaquillas -bus-> Piura, Peru; -bus-> Lima
+</ul>
+
+<h3>Peru (19)</h3>
+
+<ul>
+20100126	Piura -bus-> Lima; Lima -bus-> Panamericana -taxi-> Pisco; Pisco
+20100127	Pisco -bus-> Paracas -taxi-> Pisco; Pisco
+20100128	Pisco -bus-> Paracas -boat-> Ballestas Islands -boat-> Paracas -taxi-> Pisco; Pisco; Pisco -taxi-> Panamericana -bus-> Ica -bus-> Nazca; Nazca
+20100129	Nazca; Flight over the Nazca lines; Cantalloc aqueducts; Chauchilla Cemetary
+20100130	Nazca [No recording]
+20100131	Cerro Blanco hike (by car,walk,sandboard,walk,car); Nazca -bus-> Arequipa
+20100201	Nazca -bus-> Arequipa; Arequipa
+20100202	Arequipa
+20100203	Arequipa -bus-> Chivay -bus-> Cruz del Cóndor Mirador -bus-> Cabanaconde -walk-> San Juan de Chuccho
+20100204	San Juan de Chuccho -> Cosñirhua -> Malata -> Sangalle (by walk)
+20100205	Sangalle -walk-> Cabanaconde -bus-> Maca -bus-> La Calera Hot Springs -bus-> Chivay -bus-> Patapampa -bus-> Arequipa
+20100206	Arequipa -car-> El Misti trailhead -walk-> El Misti basecamp
+20100207	El Misti basecamp -walk-> El Misti top -walk-> El Misti basecamp (Cs only); El Misti basecamp -walk-> El Misti trailhead -car-> Arequipa
+20100208	Arequipa -bus-> Puno
+20100209	Puno [BUG: add tracklog]
+20100210	Puno [BUG: add tracklog]
+20100211	Puno [BUG: add tracklog]
+20100212	Pousada Kusillos -bus-> Puno port -boat-> Santa Maria (Uros island) -reedboat-> Jacha Challwa (Uros island) -boat-> Taquile -boat-> Puno -bus-> Pousada Kusillos [BUG: add tracklog]
+20100213	Puno -bus-> Kasane (?), Bolivia (border) -coll-> Copacabana; Copacabana (incl. Cerro Calvario)
+</ul>
+
+<h3>Bolivia (13)</h3>
+
+<ul>
+20100214	Copacabana -boat-> Challapampa -walk-> Chincana -walk-> Escalera del Inca -boat-> Copacabana
+20100215	Copacabana -bus-> San Pedro de Tiquina -ferry-> San Pablo de Tiquina -bus-> La Paz (?) -taxi-> Plaza San Francisco -walk-> Mercado de Hechiceria; Illampu street; El Prado [-r]
+20100216	La Paz [didn't record much]
+20100217	La Paz [didn't record much]
+20100218	La Paz -car-> El Alto -car-> Huayna Potosi Refugio 1; Refugio 1 -walk-> Old Glacier -walk-> Refugio 1
+20100219	Refugio 1 -walk-> Refugio 2
+20100220	Refugio 2 -walk-> Huayna Potosi (almost top at 6015m) -walk-> Refugio 2 -walk-> Refugio 1; Refugio 1 -car-> La Paz
+20100221	La Paz; La Paz -bus-> ...
+20100222	... -bus-> Potosi; Trip to the Cerro Rico mines and back (K only)
+20100223	Potosi -bus-> Uyuni; Uyuni
+20100224	Uyuni -> train cemetary -> Colchani -> Isla Incahuasi -> Chuvica (?) (by 4x4)
+20100225	Chuvica (?) -> Villa Alota (?) -> Arbol de Piedra -> Laguna Colorada (by 4x4)
+20100226	Laguna Colorada -> Sol de Mañana -> thermal baths -> Dali Desert -> Laguna Verde -> Laguna Blanca (?) -> border, Chile (by 4x4); -bus-> San Pedro de Atacama; -bike-> Valle de la Luna -bike-> San Pedro (28km)
+</ul>
+
+<h3>Chile (4)</h3>
+
+<ul>
+20100227	San Pedro; San Pedro -bus-> ...
+20100228	... -bus-> Santiago -bus-> Valparaiso
+20100301	Valparaiso
+20100302	Valparaiso -bus-> Mendoza, Argentina; Mendoza
+</ul>
+
+<h3>Argentina (2)</h3>
+
+<ul>
+20100303	Mendoza (University campus, Zoo); Mendoza -bus-> ...
+20100304	... -bus-> Bariloche; Bariloche -bus-> Puerto Montt, Chile
+</ul>
+
+<h3>Chile (11)</h3>
+
+<ul>
+20100305	Puerto Montt; Puerto Montt -ferry-> ... [Didn't record during the night]
+20100306	... -ferry-> ... [Didn't record during the night]
+20100307	... -ferry-> ... [Didn't record during the night]
+20100308	... -ferry-> Puerto Natales; Puerto Natales [Didn't record during the night]
+20100309	Puerto Natales -bus-> CONAF office (Torres del Paine); CONAF office -walk-> Las Carretas
+20100310	Las Carretas -> Paine Grande -> Refugio Grey -> Los Guardas (by walk)
+20100311	Los Guardas -> Paine Grande -> Italiano (by walk)
+20100312	Italiano -> Britanico -> Mirador -> Britanico -> Italiano -> Los Cuernos (by walk)
+20100313	Los Cuernos -> Chileno -> Torres (by walk)
+20100314	Torres -> Mirador -> Torres -> Chileno -> Hotel Las Torres -> Laguna Amarga (by walk); Laguna Amarga -bus-> Puerto Natales
+20100315	Puerto Natales -bus-> El Calafate, Argentina; -bus-> Perito Moreno; -bus-> El Calafate
+</ul>
+
+<h3>Argentina (15)</h3>
+
+<ul>
+20100316	El Calafate; El Calafate -bus-> Rio Gallegos; Rio Gallegos
+20100317	Rio Gallegos -bus-> <b>Chile</b> -bus-> Ushuaia; Ushuaia
+20100318	Ushuaia [No recording]
+20100319	Ushuaia -bus-> Tierra del Fuego National Park (TdF NP); Walks in TdF NP (Costera trail, Paseo de la Isla, Del Turbal, Senda de la Baliza); TdF NP -bus-> Ushuaia
+20100320	Hostel Patagonia Pais -taxi-> Ushuaia Airport; Ushuaia -plane-> Rio Gallegos -plane-> Buenos Aires; Aeroparque Jorge Newbery -bus-> San Telmo
+20100321	Buenos Aires (San Telmo, microcentro)
+20100322	Buenos Aires (La Boca, microcentro)
+20100323	Buenos Aires (Recoleta); Buenos Aires -bus-> ...
+20100324	... -bus-> Puerto Iguazu; Puerto Iguazu
+20100325	Puerto Iguazu -bus-> Iguazu Falls National Park (IFNP); IFNP; IFNP -bus-> Puerto Iguazu
+20100326	Puerto Iguazu -bus-> Brazilian border -bus-> Puerto Iguazu
+20100327	Puerto Iguazu
+20100328	Puerto Iguazu [No recording]
+20100329	Puerto Iguazu [No recording]
+20100330	Puerto Iguazu -bus-> Foz do Iguaçu, Brazil -bus-> Itaipu; Itaipu (Circuito Turistico Especial by tourbus); Itaipu -bus-> Foz do Iguaçu; -bus-> Cascavel -bus-> ...
+</ul>
+
+<h3>Brazil (8)</h3>
+
+<ul>
+20100331	... -bus-> Campo Grande (rodoviaria) -bus-> Campo Grande (centro)
+20100401	Campo Grande -van-> Ecodiscovery camp, Pantanal
+20100402	camp -truck-> Porto Manga; Rio Paraguay (by boat); Porto Manga -truck-> camp
+20100403	close to the camp (fishing, hiking)
+20100404	close to the camp (riding) [-r]; camp -bus-> Miranda -bus-> Campo Grande -bus-> ...
+20100405	... -bus-> São Paulo; São Paulo
+20100406	São Paulo
+20100407	São Paulo -plane-> Santiago (<b>Chile</b>) -plane-> Mataveri, Rapa Nui
+</ul>
+
+
+<a name="Oceania"/>
+<h2>Oceania</h2>
+<div class="right">
+<p><a href="oceania/index.html">Oceania notes</a></p>
+<a href="http://maps.google.com/maps?q=http://files.dropbox.com/u/1397729/trip2009/kml/selected/oceania.kml"
+title="The complete track through the Oceanian countries. (Click on the picture to see a zoomable version.)"><img src="oceania/images/track_map.png"/></a>
+</div>
+
+<h3>Rapa Nui, Chile (4)</h3>
+
+<ul>
+20100408	Hanga Roa -> Rano Kau crater -> Orongo trail -> Hanga Roa (14km, by walk)
+20100409	Hanga Roa -> museum -> Hanga Kio'e -> Ana Kakenga -> Ahu Tepeu -> Ana Te Pahu -> Ahu Akivi -> Puna Pau -> Hanga Roa (24km by walk)
+20100410	Hanga Roa -> Tongariki -> Rano Raraku -> Papa Vaka -> Te Pito Kura -> Anakena -> Mataveri -> Tongariki -> Hanga Roa (106km by car)
+20100411	Hanga Roa; Hanga Roa -plane-> Faaa, Tahiti, French Polynesia
+</ul>
+
+<h3>French Polynesia, France (10)</h3>
+
+<ul>
+20100412	Faaa -bus-> Papeete; Papeete; Papeete -bus-> Faaa
+20100413	Faaa -bus-> Papeete; Papeete; Papeete -bus-> Pointe Venus -bus-> Papeete -bus-> Faaa
+20100414	Faaa -bus-> Papeete; Papeete -ferry-> Fare, Huahine -car-> Faie -car-> Fare -car-> Parea; Parea (3km by walk to the store and back)
+20100415	Parea -> Haapu (vanilla farm) -> Faaie -boat-> Huahine Perl Farm -boat-> Faaie -> Maeva (coral garden) -> Faaie (eels) -> Maeva (Marae de Maeva) -> Fare -> Parea (80km by scooter); To the reef (by kayak) [-r]
+20100416	Parea -car-> Fare -ferry-> Vaitape, Bora Bora -bus-> Pointe Matira
+20100417	Bora Bora (35km around the island by bike)
+20100418	Pointe Matira -bus-> port -ferry-> Papeete; Papeete -taxi-> Faaa
+20100419	Faaa -bus-> Grotte de Maraa -bus-> Musee Gauguin; Musee Gauguin -car-> Faaa (by hitchhike)
+20100420	Faaa -bus-> Papeete; Papeete; Papeete -bus+walk-> Pointe Venus; Pointe Venus -walk+car-> Papeete (by hitchhike); Papeete -bus-> Faaa
+20100421	Faaa -plane-> ... (Note: crossed the international dateline to 2010-04-22)
+</ul>
+
+<h3>New Zealand (5)</h3>
+
+<ul>
+20100422	... -plane-> Auckland Airport -bus-> Auckland City Centre; Centre (Queen St., harbour, SkyTower) (by walk)
+20100423	Auckland (Auckland Museum, University)
+20100424	Auckland City Centre -bus-> Onehunga; -> Manukau Harbour -> One Tree Hill -> Mt. Eden -> Auckland Domain -> Centre (16km by walk)
+20100425	Auckland City Centre -bus-> Auckland Domain -bus-> Centre -bus-> Auckland Zoo; Zoo (by walk); Zoo -bus-> Centre
+20100426	Auckland City Centre -bus-> Auckland Airport -plane-> Sydney Airport, Australia -bus-> Sydney CBD; CBD
+</ul>
+
+<h3>Australia (5)</h3>
+
+<ul>
+20100427	Sydney CBD [-r]; CBD -car-> Restaurant Zizi -car-> CBD
+20100428	Sydney CBD [-r]; CBD -train-> Parramatta [-r]; Parramatta (6km walk to Westmead and back); Parramatta -train-> CBD
+20100429	Sydney CBD -car-> Royal National Park; The Forest Path (4.6km by walk); Royal National Park -> Otford Lookout -> Sri Venkateswara Temple -> Nan Tien Temple -> Kiama -> CBD -> Parramatta (by car)
+20100430	Parramatta -train-> Sydney CBD; CBD; CBD -train-> Sydney Domestic Airport -plane-> Cairns Domestic Airport -car-> Cairns Centre; Cairns Centre
+20100501	Cairns Centre -bus-> Cairns International Airport; Airport -plane-> Port Moresby International Airport, Papua New Guinea -walk-> Domestic Airport -bus-> Hotel Gateway
+</ul>
+
+<h3>Papua New Guinea (9)</h3>
+
+<ul>
+20100502	Hotel Gateway -bus-> Port Moresby Domestic Airport; Airport -plane-> Kagamuga Airport -car-> Kumul lodge; Forest and main road around Kumul lodge [-r]
+20100503	Kumul lodge -car-> Magic Mountain lodge; Pinta village visit around Magic Mountain (by walk)
+20100504	Magic Mountain lodge -car-> Paiya village -car-> Magic Mountain; Around Magic Mountain (by walk)
+20100505	Magic Mountain lodge -car-> Mount Hagen Market -PMV-> Goroka; Goroka (market, supermarket)
+20100506	Goroka -> Asaro -> Goroka West (by 4x4); Goroka
+20100507	Goroka -PMV-> Madang Lodge, Madang; Madang Lodge -bus-> Lutheran Guesthouse
+20100508	Madang (Madang Resort, center, market)
+20100509	Snorkeling trip to Pig (?) island [-r]; Trip to 3 villages around Madang (by 4x4)
+20100510	Lutheran Guesthouse -bus-> Madang Airport -plane-> Port Moresby Domestic Airport; Port Moresby International Airport -plane-> Cairns International Airport, Australia; Cairns Domestic Airport -car-> Hostel Caravella, Cairns center
+</ul>
+
+<h3>Australia (4)</h3>
+
+<ul>
+20100511	Cairns [No recording]
+20100512	Cairns [No recording]
+20100513	Cairns [No recording]
+20100514	Cairns center -bus-> Cairns Domestic Airport [-r]; Cairns Domestic -plane-> Sydney Domestic; Sydney Domestic -bus-> Sydney International [-r]; Sydney International -plane-> Jakarta International, Indonesia; Jakarta International -taxi-> Jalan Jaksa district
+</ul>
+
+<a name="Asia"/>
+<h2>Asia</h2>
+<div class="right">
+<p><a href="asia/index.html">Asia notes</a></p>
+<a href="http://maps.google.com/maps?q=http://files.dropbox.com/u/1397729/trip2009/kml/selected/asia.kml"
+title="The complete track through the Asian countries. (Click on the picture to see a zoomable version.)"><img src="asia/images/track_map.png"/></a>
+</div>
+
+<h3>Indonesia (18)</h3>
+
+<ul>
+20100515	Jakarta (Jalan Jaksa; Stasiun Gambir; Monas; Masjid Istiqlal; St Mary's Church) (by walk; by richshaw)
+20100516	Jalan Jaksa -tuktuk-> Stasiun Kota -walk-> Taman Fatahillah -walk-> Sunda Kelapa -tuktuk-> Stasiun Kota -train-> Stasiun Gambir -walk-> Jalan Jaksa
+20100517	Jalan Jaksa -taxi-> Stasiun Gambir -train-> Stasiun Tugu, Yogyakarta -walk-> Jalan Sosrowijayan (Gang 1)
+20100518	Jalan Sosrowijayan -minibus-> Borobudur; Borobudur; -minibus-> Mendut -minibus-> Prambanan; Prambanan; -minibus-> Jalan Sosrowijayan
+20100519	Jalan Sosrowijayan -becak-> Kraton -walk-> Ngasem Bird Market -becak-> a batik shop -walk-> Jalan Sosrowijayan
+20100520	Jalan Sosrowijayan -andong-> Pakualaman Palace -walk-> Kraton -becak-> the new bird market -becak-> Jalan Sosrowijayan -minibus-> Prambanan -minibus-> Jalan Sosrowijayan
+20100521	Jalan Sosrowijayan -minibus-> Hotel Yoschi's, Wonokerto
+20100522	Hotel Yoschi's -> Cemoro Lawang -> The Poten temple -> Gunung Bromo (2392m) -> Cemoro Lawang -> Hotel Yoschi's (16km by walk)
+20100523	Hotel Yoschi's -jeep-> Mount Penanjakan (2770m) -jeep-> Laut Pasir (parking lot) -walk-> Gunung Bromo (2392m) -walk-> Laut Pasir (parking lot) -jeep-> Hotel Yoschi's -minibus-> Probolinggo -bus-> Bungusarih bus station, Surabaya -bus-> Surabaya Airport -minibus-> New Cahaya Hotel
+20100524	New Cahaya Hotel -minibus-> Surabaya Airport -plane-> Batam Airport -plane-> Medan Airport -walk-> a street corner -minibus-> a bus station -minibus-> Berastagi; Walk along Jl. Veteran [-r]
+20100525	Jl. Veteran -> (Gurusinga village) -> (Lingga Julu village) -> Lingga -> Kabanjahe market -> lunch place -> road by Sikulikap waterfall -walk-> Sikulikap waterfall -walk-> road by Sikulikap waterfall -> Hot Spring -> Peceran village -> gereja St. Fransiskus Asisi -> Gundaling Hill -> Fruit Market -> Jl. Veteran (by minibus)
+20100526	Jl. Veteran -minibus-> Pinang Baris bus station, Medan -bus-> Bukit Lawang bus station -walk-> Bukit Lawang
+20100527	Bukit Lawang [No recording]
+20100528	Wisma Leuser Sibayak -> Bukit Lawang market -> Wisma Leuser Sibayak (~3km by walk); Wisma Leuser Sibayak -> Bat Cave -> Wisma Leuser Sibayak (3km by walk)
+20100529	Gunung Leuser National Park (by walk)
+20100530	Gunung Leuser National Park (by walk; return by tube)
+20100531	Wisma Leuser Sibayak -walk-> Bukit Lawang market -minibus-> Pinang Baris bus station, Medan -becak-> Pondok Wisata Angel; Around Masjid Raya (by walk) [-r]
+20100601	Pondok Wisata Angel -minibus-> Belawan -ferry-> Jetty Swettenham, Georgetown, Malaysia -walk-> Chinatown
+</ul>
+
+<h3>Malaysia (4)</h3>
+
+<ul>
+20100602	Georgetown (Chinatown, Little India) [No recording]
+20100603	Chinatown -walk-> Komtar -bus-> Wat Chayamangkalaram -taxi-> Thai Embassy -walk-> Wat Chayamangkalaram -walk-> Thai Embassy -walk-> Wat Chayamangkalaram (almost) -bus-> Clocktower -walk-> Jetty -bus-> Town Hall -walk-> Fort Cornwallis -walk-> Chinatown
+20100604	Chinatown -bus-> Komtar -bus-> Kek Lok Si temple; -bus-> Jetty -walk-> Clan Jetties -walk-> Chinatown
+20100605	Georgetown -minibus-> Hat Yai, Thailand -bus-> Phatthalung -pickup-> Thale Noi; Thale Noi
+</ul>
+
+<h3>Thailand (22)</h3>
+
+<ul>
+20100606	Hotel ??? -walk-> Thale Noi port; Trip on Thale Noi lake (2h by boat); Thale Noi port -walk-> Hotel ??? -> Thale Noi bus station -pickup-> Phattalung; -train-> ...
+20100607	... -train-> Hua Lamphong, Bangkok -bus-> Banglamphu; To Vietnamese embassy (by tuktuk, walk, bus); To Banglamphu (by walk, bus); To Tha Thewes (?) (by walk, boat); To ??? (by boat, walk); To Banglamphu (by car)
+20100608	Banglamphu -walk-> Wat Pho; -boat-> Banglamphu; Banglamphu
+20100609	Banglamphu -> Thammasat University -> Wat Phra Kaew -> Grand Palace -> Tha Chang -ferry-> Wat Rakang Kositaram -> Tha Wang Lang -ferry-> Thammasat University -> Banglamphu (by walk, unless written otherwise)
+20100610	Banglamphu -bus-> ~ Erawan Shrine -> Vietnamese embassy -> Indian embassy -taxi-> Glas Haus -> Asok -skytrain-> Chit Lom -> Pantip Plaza -> Siam Center -bus-> Banglamphu
+20100611	Banglamphu -boat+ferry-> Wat Arun -ferry+boat-> Harbour Dept. -> Wat Traimit -> Harbour Dept. -boat-> Banglamphu
+20100612	Banglamphu -bus-> Phahurat Road -> Memorial Bridge Pier -boat-> Banglamphu
+20100613	Banglamphu -> Damnoen Saduak; Floating Market (by boat); Damnoen Saduak -> Phra Pathom Chedi, Nakhon Pathom -> Thai Human Imagery Museum -> Phutthamonthon -> Banglamphu (by car)
+20100614	Banglamphu -> Dusit -> Banglamphu
+20100615	Banglamphu (looking for a monk)
+20100616	Banglamphu (looking for a monk); Banglamphu -> National Museum -> Banglamphu; Banglamphu (looking for rambutan) [No recording]
+20100617	Banglamphu -bus-> Siam Center -> Chulalongkorn University -> Snake Farm -> Lumphini Park -metro-> Sukhumvit -> Glas Haus -> Asok -skytrain-> Siam -> MBK Center -bus-> Banglamphu [last 2 segments not recorded]
+20100618	Banglamphu -bus-> Si Lom -> Snake Farm -> Sam Yan -metro-> Phra Ram 9 (IT Mall) -metro-> Hua Lamphong -bus-> Banglamphu; Banglamphu -bus-> ...
+20100619	... -bus-> Chiang Mai Arcade bus station -redcar-> City Police; Chiang Mai center
+20100620	Chiang Mai Walking Street (by walk) [No recording]
+20100621	Golden House -> Flight of the Gibbon office -> Flight of the Gibbon first platform; Flight of the Gibbon (by zipline); -> office -> -walk-> a waterfall -> office -> Golden House; (by minibus unless written otherwise)
+20100622	Golden House -pickup-> a place -> Jumbo camp
+20100623	Around Jumbo camp (by elephant); Jumbo camp -pickup-> a place -> Goob Gub (Lahu) village
+20100624	Goob Gub village -> Huae Sthan waterfall -> a port -raft-> a port -bambooraft-> a port -pickup-> Golden House; Food Market [-r]
+20100625	Golden House -> City Police -redcar-> Immigration Office -> Far Eastern University mensa -redcar-> Zoo -redcar-> Doi Suithep; -redcar-> Zoo; -redcar-> City Police -> Golden House -> Food market -> Golden House
+20100626	Golden House -minibus-> Namkhong Guesthouse, Chiang Khong; Walking along the main road of Chiang Khong [-r]
+20100627	Chiang Khong -> Thai border -boat-> Lao border, Laos -> Ban Houayxay -tuktuk-> a bus station -bus-> Vieng Phoukha
+</ul>
+
+<h3>Laos (11)</h3>
+
+<ul>
+20100628	Vieng Phoukha -minibus-> Nam Sing village; -> big Lahu/Hmong village (6.1km)
+20100629	Big Lahu/Hmong village -> tiny Lahu village (4.8km)
+20100630	Tiny Lahu village -> Nam Eng village (10km); -minibus-> Oung Kao Rao cave -minibus-> Vieng Phouka -bus-> Houayxay
+20100701	Houayxay -boat-> Pakbeng; Pakbeng [-r]
+20100702	Pakbeng -boat-> Luang Prabang; Luang Prabang (street market) [-r]
+20100703	Luang Prabang (old bamboo bridge; Wat Xiang Thong; Phou Si hill; street market) [No recording]
+20100704	Luang Prabang -tuktuk-> Kuang Si waterfalls; -tuktuk-> Luang Prabang; Luang Prabang (street market) [-r]
+20100705	Luang Prabang (Big Brother Mouse; National Museum; street market) [No recording]
+20100706	Luang Prabang -minibus-> Phonsavan; Phonsavan
+20100707	Phonsavan -> Russian tank -> Jar quarry -> a stupa -> a resturant -> Buddha cave -> CIA landing strip -> Scrap village -> Jar site number 1 -> Phonsavan (by minibus)
+20100708	Phonsavan -bus-> Vinh, Vietnam -bus-> ...
+</ul>
+
+<h3>Vietnam (23)</h3>
+
+<ul>
+20100709	... -bus-> remote Hanoi busstation -taxi-> Old Quarter, Hanoi; Hanoi Walking Tour of Lonely Planet Vietnam 2009
+20100710	Hanoi Lucky Hotel -> Hoan Kiem Lake -taxi-> Ho Chi Minh Mausoleum complex -> Hanoi Lucky Hotel; To Water Puppet Theatre and back [-r]
+20100711	Hanoi Lucky Hotel -> Temple of Literature -> Hanoi Lucky Hotel
+20100712	St Joseph Cathedral -minibus-> Halong City -junk-> Hang Sung Sot (Surprise Cave); Walk in the cave [-r]; Kayaking on the bay [-r]
+20100713	-junk-> -boat-> Viet Hai village (?); From the port to the village and back (10km by bike); Viet Hai -boat-> Nam Cat Island Resort
+20100714	Nam Cat Island Resort -boat-> -junk-> Halong City -minibus-> Hanoi -bus-> ... [BUG: beginning missing, why?]
+20100715	... -bus-> Hue; hotel -> Imperial Citadel -cyclo-> hotel
+20100716	Tu Duc tomb and back (~15km by bike)
+20100717	Hue -bus-> Hoi An; Hoi An [-r]
+20100718	Hoi An [-r]; Hoi An -> An Bang beach -> Hoi An (~12km by bike); Hoi An [-r]
+20100719	Hoi An -minibus-> My Son; -minibus-> Hoi An; Hoi An [-r]; Hoi An -bus-> ...
+20100720	... -bus-> Nha Trang; Nha Trang (Yersin museum; Cham temples)
+20100721	Nha Trang -bus-> Dalat; Dalat [-r]
+20100722	Hotel Nice Dream -> Crazy House [-r]; -> Market -> Hotel Nice Dream
+20100723	Hotel Nice Dream -minibus-> Sea Winds Resort, Muine; Muine [-r]
+20100724	Muine [No recording]
+20100725	Muine -bus-> Ho Chi Minh City; HCMC [-r]
+20100726	hotel -> War Remnants Museum -> hotel
+20100727	hotel -> Reunification Palace -> Notre Dame -> Post Office -> Hotel Sheraton -> river -> hotel
+20100728	hotel -> Cao Dai temple (Tay Ninh) -> Cu Chi tunnels -> hotel (by minibus)
+20100729	HCMC -> My Tho -boat-> island -boat-> My Tho -> Can Tho (by bus)
+20100730	Around Can Tho (by boat); Can Tho -> crocodile farm -> Sam mountain -> Chau Doc (by minibus)
+20100731	Chau Doc -boat-> Neak Leung, Cambodia -minibus-> Phnom Penh
+</ul>
+
+<h3>Cambodia (11)</h3>
+
+<ul>
+20100801	Phnom Penh (Sisowath Quay, Wat Ounalom, The Royal Palace, Cambodian-Vietnamese Friendship Monument) [No recording]
+20100802	hotel -> Sisowath Quay -tuktuk-> bus station -bus-> Sihanoukville center -tuktuk-> Occheuteal beach; Occheuteal beach [-r]
+20100803	Serendipity beach (by sitting in one place) [No recording]
+20100804	Serendipity beach -tuktuk-> Sihanoukville center -bus-> Phnom Penh bus station 1 -tuktuk-> Phnom Penh bus station 2 -minibus-> Kratie; Kratie [-r]
+20100805	Kratie -tuktuk-> Kampi; Dolphin visit (by boat); Kampi -tuktuk-> Kratie -bus-> Skuon -bus-> Siem Reap -tuktuk-> hotel {Ta Som GH}
+20100806	Siem Reap -minibus-> silk farm, Puok -> Siem Reap; -tuktuk-> Angkor Wat; -tuktuk-> hotel
+20100807	Siem Reap -> Angkor Wat -> Phnom Bakheng -> Angkor Thom -> Ta Prohm -> Siem Reap (44km in 14h by bike and walk)
+20100808	hotel -> Banteay Srei -> Kbal Spean -> Lolei -> Preah Ko -> Bakong -> hotel (120km in 10h by tuktuk and walk); hotel -> Night Market; -tuktuk-> hotel [-r]
+20100809	hotel [No recording]
+20100810	hotel -> Preah Khan -> Neak Pean -> Ta Som -> East Mebon -> Banteay Samré -> Pre Rup -> Srah Srang -walk-> Banteay Kdei -> Ta Keo -> Thommanon -walk-> Chao Say Tevoda -> hotel (61km in 10h by tuktuk and walk)
+20100811	hotel -bus-> Poipet -walk-> border, Thailand -pickup-> Aranya Prathet (?) -bus-> Khao San Road, Bangkok -walk-> hotel {Happy House GH}
+</ul>
+
+<h3>Thailand (3)</h3>
+
+<ul>
+20100812	hotel -> post office -> Golden Mountain -> hotel; -> Queen's birthday @ Sanam Luang -> hotel [No recording]
+20100813	Around Banglamphu [No recording]
+20100814	Around Banglamphu [-r]; hotel -> Wat Mahadhat -hotel-> [-r]; hotel -minubus-> Airport
+</ul>
+
+<h3>India (17)</h3>
+
+<ul>
+20100815	Bangkok Airport -plane-> Mumbai Airport, India [-r]; Airport -taxi-> YWCA Guesthouse, Colaba -> Hotel Lawrence, Fort -> Hotel Traveller's Inn -> hotel {Hotel Popular Palace} -taxi-> Bombay Hospital -> hotel; hotel -taxi-> Gateway of India; -taxi-> hotel
+20100816	Chhatrapati Shivaij Terminus -> Flora Fountain -> St. Thomas' Cathedral -> High Court -> Gateway of India -> Regal (cinema) -> Marine Dr -> Chowpatty Beach -taxi-> hotel
+20100817	hotel -taxi-> Gateway of India -boat-> Elephanta Island; -boat-> Gateway of India; -taxi-> hotel
+20100818	hotel -> Bombay Hospital -> Churchgate Station -train-> Mahalaxmi -> Haji Ali's Mosque -> ~ Parsi Tower of Silence -> Chowpatty Beach -bus-> Churchgate Station -> hotel -taxi-> Mumbai Central -train-> ...
+20100819	... -train-> Ahmedabad train station -tuktuk-> hotel {Good Night}
+20100820	hotel {Mehul}; Around hotel [No recording]
+20100821	Around hotel [-r]; hotel -tuktuk-> Apollo Hospital; -tuktuk-> hotel
+20100822	Around hotel [No recording]
+20100823	Around hotel [No recording]
+20100824	hotel -tuktuk-> Apollo Hospital; -tuktuk-> hotel; Around hotel [-r]
+20100825	Around hotel [No recording]
+20100826	hotel -tuktuk-> Apollo Hospital; -tuktuk-> hotel
+20100827	Around hotel [No recording]
+20100828	hotel -tuktuk-> Apollo Hospital; -tuktuk-> hotel
+20100829	hotel -tuktuk-> Apollo Hospital; -tuktuk-> Sabarmati Ashram; -> hotel
+20100830	hotel -> Ahmedabad train station -tuktuk-> Dada Hari Wav -tuktuk-> Apollo Hospital; -tuktuk-> hotel
+20100831	hotel -tuktuk-> Ahmedabad train station -train-> Dadar, Mumbai -taxi-> Mumbai Airport International
+</ul>
+
+<h3>Hong Kong (9)</h3>
+
+<ul>
+20100901	Mumbai Airport International -plane-> Hong Kong Airport -bus-> Tsim Sha Tsui (TST) -> hotel {TST Kowloon Guesthouse} -> Avenue of Stars -> hotel
+20100902	hotel -> TST ferry pier -ferry-> Wan Chai ferry pier -> China Resources Building; -> Golden Bauhinia Square -> ifc mall; -> Pier 7 -ferry-> TST ferry pier -> hotel
+20100903	hotel -> Science Museum; -> hotel [No recording]
+20100904	hotel -> Science Museum [-r]; Science Museum -> Temple St. Night Market -> Kowloon Park -> hotel
+20100905	hotel -> TST ferry pier -ferry-> Pier 7 -> Escalator lower station -escalator-> Escalator upper station -> Zoo -> The Peak lower station -cablecar-> The Peak -> a viewpoint -> The Peak -cablecar-> The Peak lower station -> Pier 7 -ferry-> TST ferry pier -> hotel
+20100906	hotel -metro-> Disneyland [-r]; Disneyland; Disneyland -metro-> hotel [-r]
+20100907	hotel -> TST ferry pier -ferry-> Wan Chai ferry pier -> China Resources Building; -> Wan Chai metro station -metro-> Central metro station -> Hong Kong metro station -> ifc II -lift-> 55th floor -lift-> ifc II -> Hong Kong metro station -> Central metro station -metro-> Mong Kok metro station -> Electronic goods market -> Goldfish market -> Flowermarket -> Prince Edward metro station -bus-> hotel [No recording underground and in the buildings]
+20100908	hotel -metro-> Central metro station -> Central bus station -bus-> Repulse Bay; -bus-> Aberdeen; Around the bay (by boat); Aberdeen -bus-> -> Pier 7 -ferry-> TST ferry pier -> hotel
+20100909	hotel -> Ferry terminal -ferry-> Jetfoil terminal, Macau -bus-> -> hotel {San Va Hospedaria} -> Largo do Senado -> São Paulo -> Fortaleza do Monte -> hotel
+</ul>
+
+<h3>Macau (3)</h3>
+
+<ul>
+20100910	hotel -> Sir Robert Ho Tung library -> Teatro Dom Pedro -> São Lourenço -> A-Ma temple -bus-> Casino Lisboa / Grande Lisboa -> Largo do Senado -> São Paulo -> hotel
+20100911	hotel -> -bus-> Jardim Lou Lim leoc -> Fortaleza Guia -> Jardim Vasco da Gama -bus-> Fisherman's Wharf -> Sands -bus-> The Venetian -bus-> Sands -> Statue of Kun lam -> Macau Tower -> hotel
+20100912	hotel -> -bus-> Jetfoil terminal -ferry-> Kowloon, <b>Hong Kong</b> -bus-> Kowloon West -bus-> Hong Kong Airport -plane-> Beijing Airport, China -train-> Dongzhimen station -metro-> Jishuitan station -taxi-> Changchunjie station -> hotel {Beijing Fei Ying Business Hotel}
+</ul>
+
+<h3>China (14)</h3>
+
+<ul>
+20100913	hotel -> Changchunjie station -metro-> Beixinqiao station -> hotel {Flowering House} -> Zhongshan Park -> Tian'anmen -> Tian'anmen East station -metro-> Beixinqiao station -> hotel
+20100914	hotel -> Beixinqiao station -metro-> [BUG] -> Water Cube -> [BUG] -metro-> Beixinqiao station -> hotel
+20100915	hotel -> Lama temple -> hotel
+20100916	hotel -> Beixinqiao station -metro-> Tian'anmen East station -> Forbidden City -> [BUG] Park -> Dongsi station -metro-> Beixinqiao station -> hotel
+20100917	hotel -> Beixinqiao station -metro-> [BUG] station -> ... -> Badaling -> ... -> hotel
+20100918	hotel -> -metro-> Beijing Railway Station -> Beijing Underground (closed) -> Temple of Heaven Park -> -metro-> Beixinqiao station -> hotel
+20100919	hotel -> -metro-> -> Zoo -> -metro-> -> hotel -> -metro-> -> Beijing Railway West -train-> ...
+20100920	... -train-> Xi'an -> hotel {Ludao Hotel} -> Muslim District -> Drum Tower -> Bell Tower -> hotel
+20100921	hotel -> -bus-> Terracotta Army -bus-> -> hotel
+20100922	Around the Xi'an City Wall (16.7km)
+20100923	hotel -> -bus-> -> Big Goose Pagoda -> -bus-> -> Greate Mosque -> -bus-> -> hotel -> Train Station -train-> ...
+20100924	... -train-> Beijing West Train Station -> -metro-> hotel {Flowering House} -> Raffles Shopping Center -> hotel
+20100925	hotel -> -metro-> -> Summer Palace; Summer Palace (by walk and boat); Summer Palace -> -metro-> -> hotel
+20100926	hotel -> -metro-> -> -train-> Terminal 3, Beijing Airport -plane-> Vantaa, <b>Finland</b> -bus-> Rautatieasema, Helsinki -bus-> Länsiterminaali -ferry-> D-terminal, Tallinn, <b>Estonia</b>
+</ul>
+
+<a name="last_day"/>
+<hr/>
+
+</body>
+</html>

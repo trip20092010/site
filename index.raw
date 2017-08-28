@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+
+<!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta property="dc:creator" content="Kaarel Kaljurand"/>
+<meta property="dc:title" content="Trip 2009-2010 travel notes"/>
+<meta property="dc:language" content="EN"/>
+<meta property="dc:description" content="Trip 2009-2010 travel notes"/>
+
+<link rel="stylesheet" title="default" href="css/main.css" media="screen" type="text/css"/>
+
+<!--
+<link rel="meta" type="application/rdf+xml" title="FOAF" href="foaf.rdf"/>
+<link rel="shortcut icon" type="image/png" href="icon.png" />
+-->
+
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+English);
+
+h1 {
+	font-family: 'IM Fell English', arial, serif;
+}
+
+div.lead {
+	background-image: url(general/images/background_amazonas_oldphoto.jpg);
+	font-family: 'IM Fell English', arial, serif;
+	font-size: 120%;
+	/*color: #030;*/
+	color: #000;
+}
+
+table.layout {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0em;
+	border: none;
+	background-color: transparent;
+	font-size: 120%;
+	text-align: left;
+}
+
+table.layout tr {
+	border: none;
+	background-color: transparent;
+}
+
+table.layout td {
+	border: none;
+	background-color: transparent;
+	vertical-align: middle;
+}
+
+table.layout img {
+	border: 1px silver solid;
+}
+
+span.completed {
+	color: green;
+	font-size: 180%;
+}
+
+table.layout tr:nth-child(even) td {
+	background-color: transparent
+}
+
+ul.quicklinks {
+	font-family: sans-serif;
+	font-variant: small-caps;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	float: right;
+	font-size: 90%;
+	width: 15em;
+	border: 1px dotted silver;
+	background-color: #ffa;
+	-moz-border-radius: 5px;
+}
+</style>
+
+<title>Trip 2009&ndash;2010 travel notes</title>
+</head>
+
+<body>
+
+<div class="lead">
+<p>Notes and recordings from a <b>410</b> days long trip around the world</p>
+</div>
+
+<ul class="quicklinks">
+<li><a href="http://trip20092010.blogspot.com/">Blog</a></li>
+<li><a href="http://picasaweb.google.com/trip20092010">Photos</a></li>
+<li><a href="http://www.youtube.com/nairobicapetown">Africa videos</a></li>
+<li><a href="http://www.youtube.com/trip20092010">All other videos</a></li>
+<li><a href="tracks.html">Daily GPS tracklogs</a></li>
+<li><a href="stat.html">Trip statistics</a></li>
+<li><a href="modification_times.html">Links to stories ordered by last modification time</a></li>
+<li><a href="http://wikitravel.org/en/Special:Contributions/Kaarel">Kaarel's contributions to Wikitravel</a></li>
+</ul>
+
+<div title="The red line on the map marks the path of the trip, first on the African continent and then around the world through South America, Oceania and Asia back to Europe. Click on the map to be able to zoom in and see the details.">
+<a href="http://maps.google.com/maps?q=http://files.dropbox.com/u/1397729/trip2009/kml/selected/four_continents.kml"><img src="general/images/four_continents_small.png"/></a>
+</div>
+
+<ul>
+<li><a href="kml/videos/around_the_world_in_2_minutes.kmz">Around the world in 2 minutes (kml, 2min, 1.2MB)</a>
+Description of the complete trip using Google Earth and audio commentary. Click
+on the link and let Google Earth open it, then click on the play button to playback the tour.</li>
+<!--<li><a href="kml/videos/complete_trip_walkthrough.kmz">Complete trip walkthrough (36 min, no audio, Google Earth)</a></li>-->
+</ul>
+
+<h2>Notes</h2>
+
+<p>Longer trip notes, links to photos, recorded sounds, maps etc.,
+grouped by continent:</p>
+
+<table class="layout">
+<tr>
+<td><img src="africa/images/zebras.jpeg" alt="Zebras" title="Two zebras"/></td>
+<td><a href="africa/index.html" title="Africa notes">Africa</a>:
+Kenya, Uganda, Rwanda, Tanzania, Malawi, Zambia, Botswana, Namibia, South Africa</td>
+<td><em>89 days</em> in July&ndash;October 2009</td>
+</tr>
+
+<tr>
+<td><img src="south_america/images/guanacos.jpg" alt="Guanacos" title="Two guanacos"/></td>
+<td><a href="south_america/index.html" title="South America notes">South America</a>:
+Brazil, Peru, Ecuador, Bolivia, Chile, Argentina</td>
+<td><em>145 days</em> in November 2009 &ndash; April 2010</td>
+</tr>
+
+<tr>
+<td><img src="oceania/images/clownfish.jpg" alt="Clown fish" title="Two clown fish"/></td>
+<td><a href="oceania/index.html" title="Oceania notes">Oceania</a>:
+Rapa Nui, French Polynesia, New Zealand, Australia, Papua New Guinea</td>
+<td><em>37 days</em> in April&ndash;May 2010</td>
+</tr>
+
+<tr>
+<td><img src="asia/images/tigers.jpg" alt="Tigers" title="Two tigers"/></td>
+<td><a href="asia/index.html" title="Asia notes">Asia</a>:
+Indonesia, Malaysia, Thailand, Laos, Vietnam, Cambodia, India, Hong Kong, Macau, China</td>
+<td><em>135 days</em> in May&ndash;September 2010</td>
+</tr>
+</table>
+
+<h3>General notes</h3>
+
+<ul>
+<li>The beginning (<a href="general/stories/the_beginning.odt">odt</a>, <a href="general/stories/the_beginning.html">html</a>)</li>
+<li>Practicalities (<a href="general/stories/practicalities.odt">odt</a>, <a href="general/stories/practicalities.html">html</a>)</li>
+<li>Catastrophes (<a href="general/stories/catastrophes.odt">odt</a>, <a href="general/stories/catastrophes.html">html</a>)</li>
+<li><a href="general/stories/notable_food_by_kaarel.html">Notable food eaten during the trip</a></li>
+<li><a href="general/stories/travel_software.html">Travel software wishlist</a></li>
+<li><a href="general/stories/filming_locations.html">Filming locations</a>:
+visited places where famous films have been shot</li>
+<li><a href="general/stories/before_and_after.html">Before and after photos</a></li>
+</ul>
+
+
+<h3>Blog</h3>
+
+<p>For short and more real-time messages, see the
+<a href="http://trip20092010.blogspot.com/">blog</a>.</p>
+
+<p>As this is a travel blog (= almost every post is made in and describes a distinct location),
+we have assigned a pair of longitude/latitude coordinates to almost every post.
+Because the Blogger interface only supports search by keyword and date, we have
+additionally cast the whole blog into KML to make it browsable on Google Earth (kml)
+and Google Maps (map):</p>
+
+<ul>
+<li>full posts (<a href="data/blog_full.kml">kml</a>, <a href="http://maps.google.com/maps?q=http://files.dropbox.com/u/1397729/trip2009/data/blog_full.kml">map</a>)</li>
+<li>titles only (<a href="data/blog_titles.kml">kml</a>, <a href="http://maps.google.com/maps?q=http://files.dropbox.com/u/1397729/trip2009/data/blog_titles.kml">map</a>)</li>
+</ul>
+
+<p>Note that the blog does not cover messages from Africa
+where we used Twitter instead, see the
+<a href="africa/tweets/nairobicapetown_dynamic.html">Africa tweets</a>.</p>
+
+
+<h2>Photos</h2>
+
+<div class="ad">
+<img src="general/images/picasaweb_photos_small.png"
+alt=""
+title=""/></div>
+
+<p>
+CMD: cat data/picasaweb_trip20092010.csv | wc -l
+photos are hosted by Picasaweb at
+<a href="http://picasaweb.google.com/trip20092010">http://picasaweb.google.com/trip20092010</a>.
+These constitute approx. 10% of all the photos that we have taken
+during the trip. The photos in the Picasaweb-selection have been downscaled
+(mostly to 1000 pixels on the longer side) but not cropped nor modified in any other way
+after capture.</p>
+
+<p>The following tables list all the photos with their captions.</p>
+
+<ul>
+<li><a href="data/picasaweb_trip20092010.csv">Picasaweb photos CSV</a>: Album title, URL, Timestamp, Title, and Caption as tab-separated values for each photo</li>
+<li><a href="general/picasaweb_trip20092010.html">Picasaweb photos HTML</a>: Album title, Title+URL, Day, Time, and Caption as a sortable HTML table</li>
+</ul>
+
+<p>The photos are arranged into
+CMD: cat general/photo_albums.html | grep "^<td>.*trip20092010" | wc -l
+<a href="general/photo_albums.html">albums</a>.
+Each album depicts a location, usually a consecutive period of time in that location.
+No album overlaps with another album. The photos in each album are ordered in temporal sequence.</p>
+
+<p>Each photo is assigned zero or more tags, e.g. the <em>food</em>-tag is given to all the photos
+that depict food, thus enabling one to quickly locate all such photos, even if they
+occur in different albums. The tags are:</p>
+
+<ul>
+<li><a href="http://picasaweb.google.com/lh/view?uname=trip20092010&amp;cuname=trip20092010&amp;tags=food&amp;psc=F#">food</a>:
+food that we ate or considered eating</li>
+
+<li><a href="http://picasaweb.google.com/lh/view?uname=trip20092010&amp;cuname=trip20092010&amp;tags=sign&amp;psc=F#">sign</a>:
+writings (e.g. on street signs, posters), often in grammatically incorrect English</li>
+
+<li><a href="http://picasaweb.google.com/lh/view?uname=trip20092010&amp;cuname=trip20092010&amp;tags=home&amp;psc=F#">home</a>:
+hotel/hostel rooms, tents, buses, bungalows, hammock decks, and other places where we stayed overnight</li>
+
+<li><a href="http://picasaweb.google.com/lh/view?uname=trip20092010&amp;cuname=trip20092010&amp;tags=machine&amp;psc=F#">machine</a>:
+all types of machines, also human- and animal-powered [BUG: incomplete]</li>
+
+<li><a href="http://picasaweb.google.com/lh/view?uname=trip20092010&amp;cuname=trip20092010&amp;tags=dog&amp;psc=F#">dog</a>:
+dogs, usually with bad skin disease [BUG: incomplete]</li>
+</ul>
+
+
+<h2>Videos</h2>
+
+<p>
+CMD: cat data/videos.csv | wc -l
+short films (4&ndash;276 seconds long) are hosted by YouTube &mdash; Africa videos at
+<a href="http://www.youtube.com/nairobicapetown">http://www.youtube.com/nairobicapetown</a>,
+all other videos at
+<a href="http://www.youtube.com/trip20092010">http://www.youtube.com/trip20092010</a>.</p>
+
+<p>These lists reference all the videos:</p>
+
+<ul>
+<li><a href="data/videos.csv">YouTube videos CSV</a>: Id, Title, URL, Description, Tags, Length, and View count as tab-separated values for each video</li>
+<li><a href="general/videos.html">YouTube videos HTML</a>: Id+URL, Title+Description, Tags, Length and View count as a sortable HTML table</li>
+</ul>
+
+
+<pre class="footer">
+Mail/Buzz: trip20092010@gmail.com &bull; Blog: <a href="http://trip20092010.blogspot.com/">http://trip20092010.blogspot.com/</a> &bull; Photos: <a href="http://picasaweb.google.com/trip20092010">http://picasaweb.google.com/trip20092010</a>
+</pre>
+
+</body>
+</html>

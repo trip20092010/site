@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta property="dc:creator" content="Kaarel Kaljurand"/>
+<meta property="dc:language" content="EN"/>
+<meta property="dc:description" content="Two days in São Paulo"/>
+
+<script type="text/javascript" src="../../js/jquery.min.js"></script>
+<script type="text/javascript">$(document).ready(function() 
+	{ 
+		$(this).find('span.cost').each(function() { $(this).attr('title', "$" + $(this).text()/1.77) });
+		var costs = [];
+		$(this).find('span.cost').each(function() { costs.push($(this).text()) });
+		var sum_str = costs.join('+');
+		var sum_in_brl = eval(sum_str);
+		var sum_in_usd = sum_in_brl / 1.77;
+		$("#total_cost").html(sum_str + " = " + sum_in_brl + " BRL (" + sum_in_usd + " USD)"); 
+	} 
+);</script>
+
+<link rel="stylesheet" title="default" href="../../css/main.css" media="screen" type="text/css"/>
+
+<title>Two days in São Paulo</title>
+</head>
+
+<body>
+
+<h1>Two days in São Paulo</h1> 
+
+<h2>Introduction</h2>
+
+<p>Instructions on how to spend two days (Saturday and Sunday) in São Paulo.</p>
+
+<p>In the following,
+the locations are shown in boldface, and the costs (for 2 people in BRL) in green.</p>
+
+<h2>Day 1 (Saturday)</h2>
+
+<p>Land at the <b>Guarulhos airport</b> one hour later than estimated.
+Immigration, baggage claim and customs go very smoothly.
+Fetch 600 BRL with your Visa Electron.
+You have to try several ATM machines (e.g. Banco do Brasil), until Bradesco finally works.
+Bradesco has a daily limit of 600 BRL which is more than enough for two people for two days
+in São Paulo.</p>
+
+<p>Take a local bus from the airport to <b>metro station Tatuapé</b> (<span class="cost">7.50</span>)
+and from there a metro to
+<b>Praça da Republica</b> (<span class="cost">5.10</span>).</p>
+
+<p><b>Hotel Joamar</b> (<span class="cost">140</span> for 2 nights in a double room)
+where you will spend the next two nights is just two blocks
+away from the metro station. It's a nice and clean hotel. The room has a TV,
+an AC, and a shower. Breakfast is included. But there is no wireless and
+your laptop's powercabel does not fit into the electricity sockets.</p>
+
+<p>After a short nap in the hotel and a brief visit to <b>a tourist information
+office</b> close to the hotel explore the center of São Paulo.
+Notable places are
+<b>Edifi'cio Altino Arantes</b> (a copy of NYC's Empire State Building),
+<b>Pa'tio do Colégio</b> (the site of the oldest Jesuit mission building in Brazil?),
+<b>Praça da Sé</b> and its <b>Catedral Metropolitana</b>. Go into the cathedral
+and look for the tropical details (coffee beans and crocodiles) in the doorway
+carvings (as the Rough Guides suggests).</p>
+
+<p>It's hot, buy a 1.5l bottle of water (<span class="cost">2.50</span>) and walk on
+to <b>Liberdade</b>, the Japanese/Asian part of the city. (In the early 20th century, about 200,000
+Japanese came to São Paulo to work in the coffee plantations. Now, São Paulo hosts
+the largest number of Japanese living outside of Japan.)
+There are several <b>food stalls</b>. Approach one of them and say <em>Posso ter uma rouhlade primavera?</em>
+and receive a spring roll (<span class="cost">2.50</span>).</p>
+
+<p>Walk back in the direction of your hotel. The evening seems to have
+started (it's about 4 o'clock), as the <b>eating/drinking places</b> start to
+get crowded. There are many musicians playing in the bars. Beer is served in bottles
+wrapped in something thermos-like.
+People pour the beer into small glasses before drinking it.</p>
+
+<p>Visit the <b>41th floor viewing platform of Edifi'cio Ita'lia</b> (<span class="cost">30</span>).
+Edifi'cio Ita'lia is one of the tallest buildings in São Paulo and offers an impressive
+view to the city and the <b>Edifi'cio Copan</b> next to it. All you see is
+skyscrapers. The view to the larger green areas, e.g. the Ibirapuera park that you plan
+to visit tomorrow is blocked by the tall buildings. The Copan building is
+a curvy skyscraper designed by the famous Brazilian architect Oscar Niemeyer, who
+was also behind the design of the buildings in Brasilia, the capital of Brazil.</p>
+
+<p>Now spend some time trying to buy an adapter in order to be able to
+charge your laptop at the hotel. Try at <b>a home appliances store</b>, but
+they don't have any. They are helpful though, and point you to another
+store (for photo equipment?). This store however seems to be far away and
+is probably closed for today already. (Of course, it would not be open tomorrow (Sunday)
+either.)</p>
+
+<p>Have dinner at <b>a fast food place</b>:
+beirutes (?) with frango (chicken sandwich),
+pasteis queijo (cheese pie),
+fruit juice,
+600ml Brahma beer
+(<span class="cost">20</span>).</p>
+
+<p>Finally, buy a 1.5l bottle of water (<span class="cost">1.60</span>)
+and go to the hotel to sleep.</p>
+
+
+<h2>Day 2 (Sunday)</h2>
+
+<p>It has been raining all night, and the rain continues in the morning
+while you walk to the <b>Mosteiro São Bento</b>
+for the 10 o'clock mass to listen to the
+Benedictine monks singing Gregorian chants.
+The program consists of [BUG: write based on the handout], but you get
+bored after an hour, sometime in the middle of the program.
+The performance is free but a donation is expected (<span class="cost">0.5</span>).</p>
+
+<p>Next you venture a little further away from the center, to <b>Mercado Municipal</b>,
+a big market building with stained-glass windows.
+Talk to a <em>bacalhau</em> seller who has been living in New Jersey for a while.
+(He is the 4th person that you have met so far in São Paulo who can speak English.)
+<!-- Add something about fruit and fish sold on the market. -->
+There are several places in the market building that offer food (e.g. <em>pastel de bacalhau</em>)
+but you decide to have lunch later and only get a fruit salad (<span class="cost">3</span>).</p>
+
+<p>Next walk to the <b>Estação de Luz</b>, explore briefly
+the <b>Parque da Luz</b> next to it, and take the train to <b>[BUG: where]</b>
+(<span class="cost">5.10</span>). Next walk downhill towards the
+<b>Parque do Ibirapuera</b>. It is about 2km away and has no metro stations closer
+than the one that you arrived at. Ibirapuera has a few geocaches which you
+have previously stored into your GPS device. Set the GPS arrow to point to one of them and follow
+the arrow. You pass by lots of skyscrapers, that get prettier the closer to the
+park you get.</p>
+
+<p>The park is now visible but surrounded by roads
+with heavy traffic. It is unclear how to best enter the park. Fortunately you meet
+a jogger whose English is fluent so that for a second
+you mistake him for an American.
+He is a local guy who lives close to the park and likes to come jogging here.
+He knows the best way to the park. At the entrance you depart from him.</p>
+
+<p>Have lunch at <b>restaurant The Green</b>. The restaurant has a buffet
+where you pay for the weight you eat, regardless of what you eat,
+e.g. if you are bigger and eat meat you spend <span class="cost">15</span>,
+and if you are smaller and a vegetarian you spend <span class="cost">10</span>.</p>
+
+<p>The park has several ponds. From the bridges you can watch how
+fish, swans, and ducks fight with each other over food.
+Attempt some geocaching but give up as the areas around the caches are very
+crowded.</p>
+
+<p>Next visit the <b>Monumento as Bandeiras</b> at the edge of the park, and climb
+on it discussing with yourself if climbing on a statue is really an appropriate thing to do.
+Many other tourists are doing it though.</p>
+
+<p>Then locate <b>a bus stop</b> asking help from the locals. Take
+the bus to the <b>Avenida Paulista</b> (<span class="cost">5.10</span>).</p>
+
+<p>Walk along the wide avenue stopping only to buy
+a bowl of sweetcorn (<span class="cost">2</span>).
+When reaching the <b>Museu de Arte de São Paulo (MASP)</b> inspect this weird building
+but do not go inside. Instead cross the street and enter 
+<b>Parque Siqueira Campos</b>, 45,000 square meters of <em>Mata Atlantica</em>.</p>
+
+<p>Walk back to the hotel through <b>Bixiga (Bela Vista)</b>,
+the historical Italian district where small colorful houses
+stand next to skyscrapers.</p>
+
+<p>Finally buy 2 500ml-bottles of water (<span class="cost">4</span>)
+and go to the hotel to sleep.</p>
+
+
+<h2>Conclusions</h2>
+
+<p>São Paulo is a huge city. In two (jetlagged) days one can get some overview 
+of the center. The highlight is definitely the view from the top
+of Edifi'cio Ita'lia.</p>
+
+<p>Total cost:
+<span id="total_cost"></span>.</p>
+
+<div class="footer">
+Kaarel. Started 2009-11-21
+</div>
+
+</body>
+</html>

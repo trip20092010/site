@@ -1,0 +1,206 @@
+div.label {
+	margin: -0.5em -0.5em -0.5em -0.5em;
+	padding: 0.4em 0.4em 0.4em 0.4em;
+	border: 1px solid silver;
+	background-color: #ffe090;
+}
+div.note {
+	margin-bottom: 0;
+	padding: 0;
+}
+span.menu { background-color: #eef; font-family: Monaco, monospace }
+span.button { padding-left: .4em; padding-right: .4em; background-color: #eef; font-family: Monaco, monospace; border: 2px silver outset }
+.image { margin-left: 1em }
+div.info {
+	border-top: gray 1px solid;
+	border-bottom: gray 1px solid;
+	background-color: orange;
+	padding: .5em .5em .5em .5em
+}
+.wip {
+	border-top: red 1px solid;
+	border-bottom: red 1px solid;
+	padding: .5em .5em .5em .5em
+}
+/* .wip { border: red 2px dashed; padding: .5em .5em .5em .5em } */
+.ad {
+	float: right;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-left: 1em;
+	/* padding: 0; */
+	padding: .5em .5em .5em .5em;
+	background-color: inherit;
+	border: 1px groove silver;
+	-moz-border-radius: 5px;
+}
+
+.ad p {
+	font-size: 90%;
+}
+
+.right {
+	float: right;
+	padding: .5em .5em .5em .5em;
+}
+
+.sidenote {
+	border: 2px dotted silver;
+	float: right;
+	font-size: 90%;
+	background-color: #ffa;
+	padding: 1em 1em 1em 1em;
+	margin-left: 1em;
+	width: 20em;
+}
+
+.sidenote p {
+	margin: 0;
+	font-size: 90%;
+}
+
+.sidenote ul {
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Optima, sans-serif;
+	/* letter-spacing: .2em; */
+}
+h2 { margin-top: 2em }
+table { font-size: 80%; empty-cells: show; border-collapse: collapse; margin: 1em 1em 1em 1em }
+thead { border: 1px black solid; font-weight: bold; background-color: silver; font-variant: small-caps }
+th, td { border: 1px solid black; padding: 0.3em 0.3em 0.3em 0.3em; vertical-align: top; text-align: left }
+tbody tr:nth-child(even) td { background-color: #eff1f3 }
+/* Styles for the tablesorter start */
+th.headerSortUp { border-top: 4px solid green; } 
+th.headerSortDown { border-bottom: 4px solid green; } 
+th.header { } 
+/* Styles for the tablesorter end */
+span.acetext { font-family: Monaco, monospace }
+span.acetext:before { content: "â" }
+span.acetext:after { content: "â" }
+pre {
+	margin-left: 1em;
+	padding-left: 1em;
+	border-left: 1px dotted silver;
+}
+#toc {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0em;
+	margin-right: 0em;
+	padding: 1em 1em 1em 1em;
+	border: 1px solid silver;
+	background-color: #ffe;
+	font-family: monospace;
+}
+#toc a { text-decoration: none }
+#toc a:hover { text-decoration: underline }
+pre.footer {
+	border: none;
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid black;
+	margin-top: 5em;
+	padding-top: 0.4em;
+	background-color: inherit;
+}
+body {
+	font-family: Verdana, Arial, sans-serif;
+	margin: 1em 1em 1em 1em;
+	background-color: #ffe;
+}
+div.footer {
+	margin-top: 1em;
+	border-top: 1px solid black
+}
+#twitter_div {
+	margin: 0;
+	padding: 0;
+	padding-left: .4em;
+	padding-right: .4em;
+	background-color: #eef
+}
+div.video {
+	margin: 1em 1em 1em 1em;
+}
+div.image {
+	margin: 1em 1em 1em 1em;
+}
+div.image p {
+	font-size: 90%;
+	padding-left: 1em;
+	border-left: 1px dotted silver;
+}
+.hl {
+	color: orange;
+	font-weight: bold;
+}
+span.cost {
+	background-color: #00c000;
+}
+
+span.cost_idr {
+	background-color: #0e0;
+}
+span.cost_idr:before { content: "Rp " }
+
+span.note {
+	background-color: #ffa;
+}
+
+blockquote {
+	font-style: italic;
+}
+.logbook {
+	font-style: italic;
+}
+sup {
+	font-size: 60%;
+}
+
+dl.legend {
+	margin: 0;
+	font-size: 80%;
+}
+
+dl.legend dt {
+	font-weight: bold;
+}
+
+div.lead {
+	background-color: #ffe;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: top center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-left: .5em;
+	padding-right: .5em;
+	color: #000;
+	margin-bottom: 1em;
+}
+
+div.lead p {
+	font-size: 120%;
+	padding: .1em .1em .1em .1em;
+	margin: .1em .1em .1em .1em;
+	font-style: italic;
+}
+
+div.lead h1 {
+	font-size: 160%;
+	padding: .1em .1em .1em .1em;
+	margin: .1em .1em .1em .1em;
+}
+
+.fade {
+	color: #777;
+}
+
+.smallprint {
+	font-size: 70%;
+}

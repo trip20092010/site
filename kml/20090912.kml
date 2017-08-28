@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <name>GPS device</name>
+    <Snippet>Created Sun Jan 10 03:13:45 2010</Snippet>
+<!-- Normal track style -->
+    <Style id="track_n">
+      <IconStyle>
+        <Icon>
+          <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted track style -->
+    <Style id="track_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="track">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#track_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#track_h</styleUrl>
+      </Pair>
+    </StyleMap>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>990000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>Waypoints</name>
+    </Folder>
+    <Folder>
+      <name>Tracks</name>
+      <Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+              25.861061,-17.838527,899.313000
+              25.861061,-17.838527,897.416000
+              25.861061,-17.838527,898.959000
+              25.861061,-17.838527,897.440000
+              25.861061,-17.838527,899.800000
+              25.861061,-17.838527,903.573000
+              25.861061,-17.838527,905.142000
+              25.862982,-17.840707,903.565000
+              25.863578,-17.840080,905.296000
+              25.863601,-17.839903,908.565000
+              25.863475,-17.839804,913.064000
+              25.863362,-17.839716,916.118000
+              25.863320,-17.839682,916.353000
+              25.863227,-17.839612,918.015000
+              25.863073,-17.839487,920.408000
+              25.862926,-17.839363,921.763000
+              25.862663,-17.839138,924.815000
+              25.862619,-17.839092,924.999000
+              25.862582,-17.839051,925.343000
+              25.862452,-17.838951,928.081000
+              25.862323,-17.838837,928.417000
+              25.862115,-17.838684,931.575000
+              25.862122,-17.838682,932.955000
+              25.862047,-17.838612,935.306000
+              25.861781,-17.838368,938.757000
+              25.861747,-17.838337,939.006000
+              25.861649,-17.838251,940.650000
+              25.861554,-17.838193,942.135000
+              25.861382,-17.838309,942.808000
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>

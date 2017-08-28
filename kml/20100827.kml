@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <name>GPS device</name>
+    <Snippet>Created Wed Sep  1 09:19:43 2010</Snippet>
+<!-- Normal track style -->
+    <Style id="track_n">
+      <IconStyle>
+        <Icon>
+          <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted track style -->
+    <Style id="track_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="track">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#track_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#track_h</styleUrl>
+      </Pair>
+    </StyleMap>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>990000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>Waypoints</name>
+    </Folder>
+    <Folder>
+      <name>Tracks</name>
+      <Folder>
+        <Snippet/>
+        <description>
+<![CDATA[<table>
+            <tr><td><b>Distance</b> 0.0 meters </td></tr>
+            <tr><td><b>Min Alt</b> 63.609 meters </td></tr>
+            <tr><td><b>Max Alt</b> 71.174 meters </td></tr>
+            <tr><td><b>Max Speed</b> 23.1 meters/hour </td></tr>
+            <tr><td><b>Start Time</b> 2010-08-26T18:56:30Z  </td></tr>
+            <tr><td><b>End Time</b> 2010-08-26T19:11:40Z  </td></tr>
+          </table>]]>
+        </description>
+        <TimeSpan>
+          <begin>2010-08-26T18:56:30Z</begin>
+          <end>2010-08-26T19:11:40Z</end>
+        </TimeSpan>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.582332,23.026700,68.032000
+              72.582332,23.026700,68.270000
+              72.582332,23.026700,63.609000
+              72.582332,23.026700,71.174000
+              72.582332,23.026700,68.185000
+              72.582332,23.026700,66.650000
+              72.582332,23.026700,68.346000
+              72.582332,23.026700,66.763000
+              72.582332,23.026700,66.650000
+              72.582332,23.026700,68.201000
+              72.582332,23.026700,66.695000
+              72.582332,23.026700,68.278000
+              72.582332,23.026700,66.774000
+              72.582332,23.026700,68.671000
+              72.582332,23.026700,67.149000
+              72.582332,23.026700,68.724000
+              72.582332,23.026700,67.118000
+              72.582332,23.026700,68.655000
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <name>GPS device</name>
+    <Snippet>Created Sun Jan 10 03:13:52 2010</Snippet>
+<!-- Normal track style -->
+    <Style id="track_n">
+      <IconStyle>
+        <Icon>
+          <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted track style -->
+    <Style id="track_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="track">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#track_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#track_h</styleUrl>
+      </Pair>
+    </StyleMap>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>990000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>Waypoints</name>
+    </Folder>
+    <Folder>
+      <name>Tracks</name>
+      <Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+              18.595151,-33.968769,43.339000
+              18.595151,-33.968769,43.339000
+              18.595151,-33.968769,45.202000
+              18.595151,-33.968769,45.482000
+              18.595151,-33.968769,46.708000
+              18.595151,-33.968769,46.404000
+              18.595151,-33.968769,43.271000
+              18.595151,-33.968769,44.861000
+              18.595151,-33.968769,43.635000
+              18.595151,-33.968769,46.217000
+              18.595151,-33.968769,44.375000
+              18.595151,-33.968769,46.579000
+              18.595151,-33.968769,43.437000
+              18.595151,-33.968769,46.497000
+              18.595151,-33.968769,43.120000
+              18.595151,-33.968769,47.744000
+              18.595151,-33.968769,44.853000
+              18.595151,-33.968769,44.476000
+              18.595151,-33.968769,45.950000
+              18.595151,-33.968769,44.845000
+              18.595151,-33.968769,43.181000
+              18.595151,-33.968769,46.465000
+              18.595151,-33.968769,44.930000
+              18.595151,-33.968769,45.823000
+              18.595151,-33.968769,43.815000
+              18.595151,-33.968769,46.769000
+              18.595151,-33.968769,45.284000
+              18.595151,-33.968769,44.172000
+              18.595151,-33.968769,44.708000
+              18.595151,-33.968769,47.578000
+              18.595151,-33.968769,44.151000
+              18.595151,-33.968769,45.990000
+              18.595151,-33.968769,44.732000
+              18.595151,-33.968769,47.768000
+              18.595151,-33.968769,44.301000
+              18.595151,-33.968769,47.654000
+              18.595151,-33.968769,44.391000
+              18.595151,-33.968769,46.827000
+              18.595151,-33.968769,41.728000
+              18.595151,-33.968769,49.237000
+              18.595151,-33.968769,46.111000
+              18.595151,-33.968769,35.539000
+              18.595151,-33.968769,33.753000
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>

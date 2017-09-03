@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Path", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ 39.289465, -5.750907, -28.474 ], [ 39.289465, -5.750907, -29.89 ], [ 39.289465, -5.750907, -26.978 ], [ 39.289465, -5.750907, -29.087 ], [ 39.289465, -5.750907, -26.835 ] ] } }
+]
+}
